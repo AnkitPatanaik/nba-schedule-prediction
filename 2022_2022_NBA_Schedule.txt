@@ -1,0 +1,1230 @@
+1 Tue. 10/18/22 Philadelphia Boston 7:30PM 7:30PM TNT
+2 Tue. 10/18/22 Lakers Warriors 7:00PM 10:00PM TNT
+3 Wed. 10/19/22 Orlando Detroit 7:00PM 7:00PM
+4 Wed. 10/19/22 Washington Indiana 7:00PM 7:00PM
+5 Wed. 10/19/22 Houston Atlanta 7:30PM 7:30PM
+6 Wed. 10/19/22 NOLA Brooklyn 7:30PM 7:30PM
+7 Wed. 10/19/22 Chicago Miami 7:30PM 7:30PM
+8 Wed. 10/19/22 Cleveland Toronto 7:30PM 7:30PM
+9 Wed. 10/19/22 Knicks Memphis 6:30PM 7:30PM ESPN
+10 Wed. 10/19/22 Thunder Minnesota 7:00PM 8:00PM
+11 Wed. 10/19/22 Charlotte Spurs 7:00PM 8:00PM
+12 Wed. 10/19/22 Denver Utah 7:00PM 9:00PM
+13 Wed. 10/19/22 Dallas Phoenix 7:00PM 10:00PM ESPN
+14 Wed. 10/19/22 Portland Sacramento 7:00PM 10:00PM
+15 Thu. 10/20/22 Milwaukee Philadelphia 7:30PM 7:30PM TNT
+16 Thu. 10/20/22 Clippers Lakers 7:00PM 10:00PM TNT
+17 Fri. 10/21/22 NOLA Charlotte 7:00PM 7:00PM
+18 Fri. 10/21/22 Spurs Indiana 7:00PM 7:00PM
+19 Fri. 10/21/22 Chicago Washington 7:00PM 7:00PM
+20 Fri. 10/21/22 Orlando Atlanta 7:30PM 7:30PM
+21 Fri. 10/21/22 Toronto Brooklyn 7:30PM 7:30PM
+22 Fri. 10/21/22 Boston Miami 7:30PM 7:30PM ESPN
+23 Fri. 10/21/22 Detroit Knicks 7:30PM 7:30PM
+24 Fri. 10/21/22 Memphis Houston 7:00PM 8:00PM
+25 Fri. 10/21/22 Utah Minnesota 7:00PM 8:00PM
+26 Fri. 10/21/22 Denver Warriors 7:00PM 10:00PM ESPN
+27 Fri. 10/21/22 Phoenix Portland 7:00PM 10:00PM
+28 Sat. 10/22/22 Spurs Philadelphia 6:00PM 6:00PM NBA TV
+29 Sat. 10/22/22 Detroit Indiana 7:00PM 7:00PM
+30 Sat. 10/22/22 Boston Orlando 7:00PM 7:00PM
+31 Sat. 10/22/22 Toronto Miami 8:00PM 8:00PM
+32 Sat. 10/22/22 Cleveland Chicago 7:00PM 8:00PM
+33 Sat. 10/22/22 Houston Milwaukee 7:00PM 8:00PM
+34 Sat. 10/22/22 Memphis Dallas 7:30PM 8:30PM NBA TV
+35 Sat. 10/22/22 Thunder Denver 7:00PM 9:00PM
+36 Sat. 10/22/22 Clippers Sacramento 7:00PM 10:00PM
+37 Sun. 10/23/22 Portland Lakers 12:30PM 3:30PM
+38 Sun. 10/23/22 Charlotte Atlanta 5:00PM 5:00PM
+39 Sun. 10/23/22 Washington Cleveland 7:00PM 7:00PM
+40 Sun. 10/23/22 Utah NOLA 6:00PM 7:00PM
+41 Sun. 10/23/22 Minnesota Thunder 7:00PM 8:00PM
+42 Sun. 10/23/22 Sacramento Warriors 5:30PM 8:30PM
+43 Sun. 10/23/22 Phoenix Clippers 7:00PM 10:00PM NBA TV
+44 Mon. 10/24/22 Indiana Philadelphia 7:00PM 7:00PM
+45 Mon. 10/24/22 Toronto Miami 7:30PM 7:30PM
+46 Mon. 10/24/22 Orlando Knicks 7:30PM 7:30PM NBA TV
+47 Mon. 10/24/22 Boston Chicago 7:00PM 8:00PM
+48 Mon. 10/24/22 Utah Houston 7:00PM 8:00PM
+49 Mon. 10/24/22 Brooklyn Memphis 7:00PM 8:00PM
+50 Mon. 10/24/22 Spurs Minnesota 7:00PM 8:00PM
+51 Mon. 10/24/22 Denver Portland 7:00PM 10:00PM NBA TV
+52 Tue. 10/25/22 Detroit Washington 7:00PM 7:00PM
+53 Tue. 10/25/22 Dallas NOLA 6:30PM 7:30PM TNT
+54 Tue. 10/25/22 Clippers Thunder 7:00PM 8:00PM
+55 Tue. 10/25/22 Warriors Phoenix 7:00PM 10:00PM TNT
+56 Wed. 10/26/22 Orlando Cleveland 7:00PM 7:00PM
+57 Wed. 10/26/22 Atlanta Detroit 7:00PM 7:00PM
+58 Wed. 10/26/22 Charlotte Knicks 7:30PM 7:30PM
+59 Wed. 10/26/22 Philadelphia Toronto 7:30PM 7:30PM
+60 Wed. 10/26/22 Brooklyn Milwaukee 6:30PM 7:30PM ESPN
+61 Wed. 10/26/22 Indiana Chicago 7:00PM 8:00PM
+62 Wed. 10/26/22 Spurs Minnesota 7:00PM 8:00PM
+63 Wed. 10/26/22 Houston Utah 7:00PM 9:00PM
+64 Wed. 10/26/22 Lakers Denver 8:00PM 10:00PM ESPN
+65 Wed. 10/26/22 Miami Portland 7:00PM 10:00PM
+66 Thu. 10/27/22 Dallas Brooklyn 7:30PM 7:30PM NBA TV
+67 Thu. 10/27/22 Clippers Thunder 7:00PM 8:00PM
+68 Thu. 10/27/22 Miami Warriors 7:00PM 10:00PM NBA TV
+69 Thu. 10/27/22 Memphis Sacramento 7:00PM 10:00PM
+70 Fri. 10/28/22 Atlanta Detroit 7:00PM 7:00PM
+71 Fri. 10/28/22 Charlotte Orlando 7:00PM 7:00PM
+72 Fri. 10/28/22 Cleveland Boston 7:30PM 7:30PM
+73 Fri. 10/28/22 Philadelphia Toronto 7:30PM 7:30PM
+74 Fri. 10/28/22 Indiana Washington 7:30PM 7:30PM ESPN
+75 Fri. 10/28/22 Knicks Milwaukee 7:00PM 8:00PM
+76 Fri. 10/28/22 Lakers Minnesota 7:00PM 8:00PM
+77 Fri. 10/28/22 Chicago Spurs 7:30PM 8:30PM
+78 Fri. 10/28/22 Utah Denver 7:00PM 9:00PM
+79 Fri. 10/28/22 NOLA Phoenix 7:00PM 10:00PM ESPN
+80 Fri. 10/28/22 Houston Portland 7:00PM 10:00PM
+81 Sat. 10/29/22 Miami Sacramento 3:00PM 6:00PM
+82 Sat. 10/29/22 Warriors Charlotte 7:00PM 7:00PM
+83 Sat. 10/29/22 Indiana Brooklyn 7:30PM 7:30PM
+84 Sat. 10/29/22 Philadelphia Chicago 7:00PM 8:00PM NBA TV
+85 Sat. 10/29/22 Atlanta Milwaukee 7:00PM 8:00PM
+86 Sat. 10/29/22 Thunder Dallas 8:00PM 9:00PM
+87 Sat. 10/29/22 Memphis Utah 7:00PM 9:00PM
+88 Sun. 10/30/22 NOLA Clippers 12:00PM 3:00PM
+89 Sun. 10/30/22 Washington Boston 6:00PM 6:00PM
+90 Sun. 10/30/22 Knicks Cleveland 6:00PM 6:00PM
+91 Sun. 10/30/22 Warriors Detroit 6:00PM 6:00PM
+92 Sun. 10/30/22 Minnesota Spurs 6:00PM 7:00PM NBA TV
+93 Sun. 10/30/22 Orlando Dallas 6:30PM 7:30PM
+94 Sun. 10/30/22 Houston Phoenix 6:00PM 9:00PM
+95 Sun. 10/30/22 Denver Lakers 6:30PM 9:30PM NBA TV
+96 Mon. 10/31/22 Sacramento Charlotte 7:00PM 7:00PM
+97 Mon. 10/31/22 Philadelphia Washington 7:00PM 7:00PM
+98 Mon. 10/31/22 Indiana Brooklyn 7:30PM 7:30PM NBA TV
+99 Mon. 10/31/22 Atlanta Toronto 7:30PM 7:30PM
+100 Mon. 10/31/22 Detroit Milwaukee 7:00PM 8:00PM
+101 Mon. 10/31/22 Memphis Utah 7:00PM 9:00PM
+102 Mon. 10/31/22 Houston Clippers 7:30PM 10:30PM
+103 Tue. 11/1/22 Chicago Brooklyn 7:30PM 7:30PM
+104 Tue. 11/1/22 Warriors Miami 7:30PM 7:30PM
+105 Tue. 11/1/22 Orlando Thunder 6:30PM 7:30PM TNT
+106 Tue. 11/1/22 Minnesota Phoenix 7:00PM 10:00PM TNT
+107 Wed. 11/2/22 Boston Cleveland 7:00PM 7:00PM
+108 Wed. 11/2/22 Washington Philadelphia 7:00PM 7:00PM
+109 Wed. 11/2/22 Sacramento Miami 7:30PM 7:30PM
+110 Wed. 11/2/22 Atlanta Knicks 7:30PM 7:30PM
+111 Wed. 11/2/22 Charlotte Chicago 6:30PM 7:30PM ESPN
+112 Wed. 11/2/22 Clippers Houston 7:00PM 8:00PM
+113 Wed. 11/2/22 Detroit Milwaukee 7:00PM 8:00PM
+114 Wed. 11/2/22 Toronto Spurs 7:00PM 8:00PM
+115 Wed. 11/2/22 Utah Dallas 7:30PM 8:30PM
+116 Wed. 11/2/22 Memphis Portland 7:00PM 10:00PM ESPN
+117 Wed. 11/2/22 NOLA Lakers 7:30PM 10:30PM
+118 Thu. 11/3/22 Warriors Orlando 7:00PM 7:00PM
+119 Thu. 11/3/22 Denver Thunder 7:00PM 8:00PM NBA TV
+120 Fri. 11/4/22 Cleveland Detroit 7:00PM 7:00PM
+121 Fri. 11/4/22 Miami Indiana 7:00PM 7:00PM
+122 Fri. 11/4/22 Knicks Philadelphia 7:00PM 7:00PM
+123 Fri. 11/4/22 Brooklyn Washington 7:00PM 7:00PM
+124 Fri. 11/4/22 Chicago Boston 7:30PM 7:30PM ESPN
+125 Fri. 11/4/22 Charlotte Memphis 7:00PM 8:00PM
+126 Fri. 11/4/22 Clippers Spurs 7:00PM 8:00PM
+127 Fri. 11/4/22 Toronto Dallas 7:30PM 8:30PM
+128 Fri. 11/4/22 Warriors NOLA 7:30PM 8:30PM
+129 Fri. 11/4/22 Milwaukee Minnesota 9:00PM 10:00PM ESPN
+130 Fri. 11/4/22 Portland Phoenix 7:00PM 10:00PM
+131 Fri. 11/4/22 Utah Lakers 7:30PM 10:30PM
+132 Sat. 11/5/22 Sacramento Orlando 5:00PM 5:00PM
+133 Sat. 11/5/22 Brooklyn Charlotte 7:00PM 7:00PM
+134 Sat. 11/5/22 NOLA Atlanta 7:30PM 7:30PM
+135 Sat. 11/5/22 Boston Knicks 7:30PM 7:30PM NBA TV
+136 Sat. 11/5/22 Thunder Milwaukee 7:00PM 8:00PM
+137 Sat. 11/5/22 Houston Minnesota 7:00PM 8:00PM
+138 Sat. 11/5/22 Spurs Denver 7:00PM 9:00PM
+139 Sat. 11/5/22 Portland Phoenix 7:00PM 10:00PM NBA TV
+140 Sun. 11/6/22 Cleveland Lakers 12:30PM 3:30PM
+141 Sun. 11/6/22 Chicago Toronto 6:00PM 6:00PM
+142 Sun. 11/6/22 Washington Memphis 5:00PM 6:00PM
+143 Sun. 11/6/22 Utah Clippers 7:00PM 10:00PM
+144 Mon. 11/7/22 Washington Charlotte 7:00PM 7:00PM
+145 Mon. 11/7/22 Houston Orlando 7:15PM 7:15PM
+146 Mon. 11/7/22 Thunder Detroit 7:30PM 7:30PM
+147 Mon. 11/7/22 NOLA Indiana 7:45PM 7:45PM
+148 Mon. 11/7/22 Phoenix Philadelphia 8:00PM 8:00PM NBA TV
+149 Mon. 11/7/22 Milwaukee Atlanta 8:15PM 8:15PM
+150 Mon. 11/7/22 Portland Miami 8:30PM 8:30PM
+151 Mon. 11/7/22 Toronto Chicago 7:45PM 8:45PM
+152 Mon. 11/7/22 Boston Memphis 8:00PM 9:00PM
+153 Mon. 11/7/22 Knicks Minnesota 8:15PM 9:15PM
+154 Mon. 11/7/22 Denver Spurs 8:30PM 9:30PM
+155 Mon. 11/7/22 Brooklyn Dallas 8:45PM 9:45PM
+156 Mon. 11/7/22 Sacramento Warriors 7:00PM 10:00PM
+157 Mon. 11/7/22 Lakers Utah 8:15PM 10:15PM
+158 Mon. 11/7/22 Cleveland Clippers 7:30PM 10:30PM NBA TV
+159 Wed. 11/9/22 Portland Charlotte 7:00PM 7:00PM
+160 Wed. 11/9/22 Denver Indiana 7:00PM 7:00PM
+161 Wed. 11/9/22 Dallas Orlando 7:00PM 7:00PM
+162 Wed. 11/9/22 Utah Atlanta 7:30PM 7:30PM
+163 Wed. 11/9/22 Detroit Boston 7:30PM 7:30PM
+164 Wed. 11/9/22 Knicks Brooklyn 7:30PM 7:30PM ESPN
+165 Wed. 11/9/22 Houston Toronto 7:30PM 7:30PM
+166 Wed. 11/9/22 NOLA Chicago 7:00PM 8:00PM
+167 Wed. 11/9/22 Phoenix Minnesota 7:00PM 8:00PM
+168 Wed. 11/9/22 Milwaukee Thunder 7:00PM 8:00PM
+169 Wed. 11/9/22 Memphis Spurs 7:00PM 8:00PM
+170 Wed. 11/9/22 Lakers Clippers 7:00PM 10:00PM ESPN
+171 Wed. 11/9/22 Cleveland Sacramento 7:00PM 10:00PM
+172 Thu. 11/10/22 Dallas Washington 7:00PM 7:00PM
+173 Thu. 11/10/22 Philadelphia Atlanta 7:30PM 7:30PM NBA TV
+174 Thu. 11/10/22 Charlotte Miami 7:30PM 7:30PM
+175 Thu. 11/10/22 Portland NOLA 7:00PM 8:00PM
+176 Fri. 11/11/22 Denver Boston 7:00PM 7:00PM NBA TV
+177 Fri. 11/11/22 Phoenix Orlando 7:00PM 7:00PM
+178 Fri. 11/11/22 Detroit Knicks 7:30PM 7:30PM
+179 Fri. 11/11/22 Toronto Thunder 7:00PM 8:00PM
+180 Fri. 11/11/22 Milwaukee Spurs 7:00PM 8:00PM
+181 Fri. 11/11/22 Minnesota Memphis 8:30PM 9:30PM ESPN
+182 Fri. 11/11/22 Cleveland Warriors 7:00PM 10:00PM
+183 Fri. 11/11/22 Sacramento Lakers 7:30PM 10:30PM
+184 Sat. 11/12/22 Brooklyn Clippers 1:00PM 4:00PM
+185 Sat. 11/12/22 Utah Washington 6:00PM 6:00PM
+186 Sat. 11/12/22 Boston Detroit 7:00PM 7:00PM
+187 Sat. 11/12/22 Toronto Indiana 7:00PM 7:00PM
+188 Sat. 11/12/22 Atlanta Philadelphia 7:30PM 7:30PM
+189 Sat. 11/12/22 Charlotte Miami 8:00PM 8:00PM
+190 Sat. 11/12/22 Portland Dallas 7:30PM 8:30PM
+191 Sat. 11/12/22 Houston NOLA 7:30PM 8:30PM NBA TV
+192 Sun. 11/13/22 Thunder Knicks 12:00PM 12:00PM
+193 Sun. 11/13/22 Minnesota Cleveland 6:00PM 6:00PM
+194 Sun. 11/13/22 Memphis Washington 6:00PM 6:00PM
+195 Sun. 11/13/22 Utah Philadelphia 7:30PM 7:30PM
+196 Sun. 11/13/22 Denver Chicago 7:00PM 8:00PM
+197 Sun. 11/13/22 Warriors Sacramento 6:00PM 9:00PM
+198 Sun. 11/13/22 Brooklyn Lakers 6:30PM 9:30PM
+199 Mon. 11/14/22 Toronto Detroit 7:00PM 7:00PM
+200 Mon. 11/14/22 Charlotte Orlando 7:00PM 7:00PM
+201 Mon. 11/14/22 Thunder Boston 7:30PM 7:30PM NBA TV
+202 Mon. 11/14/22 Phoenix Miami 7:30PM 7:30PM
+203 Mon. 11/14/22 Clippers Houston 7:00PM 8:00PM
+204 Mon. 11/14/22 Atlanta Milwaukee 7:00PM 8:00PM
+205 Mon. 11/14/22 Spurs Warriors 7:00PM 10:00PM
+206 Tue. 11/15/22 Memphis NOLA 6:30PM 7:30PM TNT
+207 Tue. 11/15/22 Clippers Dallas 7:30PM 8:30PM
+208 Tue. 11/15/22 Knicks Utah 8:00PM 10:00PM TNT
+209 Tue. 11/15/22 Spurs Portland 7:00PM 10:00PM
+210 Tue. 11/15/22 Brooklyn Sacramento 7:00PM 10:00PM
+211 Wed. 11/16/22 Indiana Charlotte 7:00PM 7:00PM
+212 Wed. 11/16/22 Minnesota Orlando 7:00PM 7:00PM
+213 Wed. 11/16/22 Thunder Washington 7:00PM 7:00PM
+214 Wed. 11/16/22 Boston Atlanta 7:30PM 7:30PM ESPN
+215 Wed. 11/16/22 Miami Toronto 7:30PM 7:30PM
+216 Wed. 11/16/22 Cleveland Milwaukee 7:00PM 8:00PM
+217 Wed. 11/16/22 Chicago NOLA 7:00PM 8:00PM
+218 Wed. 11/16/22 Houston Dallas 7:30PM 8:30PM
+219 Wed. 11/16/22 Knicks Denver 8:00PM 10:00PM
+220 Wed. 11/16/22 Warriors Phoenix 8:00PM 10:00PM ESPN
+221 Thu. 11/17/22 Brooklyn Portland 7:00PM 10:00PM NBA TV
+222 Thu. 11/17/22 Spurs Sacramento 7:00PM 10:00PM
+223 Thu. 11/17/22 Detroit Clippers 7:30PM 10:30PM
+224 Fri. 11/18/22 Miami Washington 7:00PM 7:00PM
+225 Fri. 11/18/22 Charlotte Cleveland 7:30PM 7:30PM
+226 Fri. 11/18/22 Milwaukee Philadelphia 7:30PM 7:30PM ESPN
+227 Fri. 11/18/22 Orlando Chicago 7:00PM 8:00PM
+228 Fri. 11/18/22 Indiana Houston 7:00PM 8:00PM
+229 Fri. 11/18/22 Thunder Memphis 7:00PM 8:00PM
+230 Fri. 11/18/22 Denver Dallas 7:30PM 8:30PM
+231 Fri. 11/18/22 Boston NOLA 7:30PM 8:30PM
+232 Fri. 11/18/22 Phoenix Utah 7:00PM 9:00PM
+233 Fri. 11/18/22 Knicks Warriors 7:00PM 10:00PM ESPN
+234 Fri. 11/18/22 Detroit Lakers 7:30PM 10:30PM
+235 Sat. 11/19/22 Toronto Atlanta 6:00PM 6:00PM
+236 Sat. 11/19/22 Orlando Indiana 7:00PM 7:00PM
+237 Sat. 11/19/22 Minnesota Philadelphia 7:30PM 7:30PM NBA TV
+238 Sat. 11/19/22 Utah Portland 7:00PM 10:00PM NBA TV
+239 Sat. 11/19/22 Spurs Clippers 7:30PM 10:30PM
+240 Sun. 11/20/22 Knicks Phoenix 1:30PM 3:30PM
+241 Sun. 11/20/22 Charlotte Washington 6:00PM 6:00PM
+242 Sun. 11/20/22 Detroit Sacramento 3:00PM 6:00PM
+243 Sun. 11/20/22 Memphis Brooklyn 7:00PM 7:00PM
+244 Sun. 11/20/22 Miami Cleveland 7:00PM 7:00PM
+245 Sun. 11/20/22 Warriors Houston 6:00PM 7:00PM
+246 Sun. 11/20/22 Denver Dallas 6:30PM 7:30PM
+247 Sun. 11/20/22 Spurs Lakers 6:30PM 9:30PM
+248 Mon. 11/21/22 Atlanta Cleveland 7:00PM 7:00PM
+249 Mon. 11/21/22 Orlando Indiana 7:00PM 7:00PM
+250 Mon. 11/21/22 Boston Chicago 7:00PM 8:00PM
+251 Mon. 11/21/22 Portland Milwaukee 7:00PM 8:00PM
+252 Mon. 11/21/22 Miami Minnesota 7:00PM 8:00PM
+253 Mon. 11/21/22 Warriors NOLA 7:00PM 8:00PM NBA TV
+254 Mon. 11/21/22 Knicks Thunder 7:00PM 8:00PM
+255 Mon. 11/21/22 Utah Clippers 7:30PM 10:30PM NBA TV
+256 Tue. 11/22/22 Brooklyn Philadelphia 7:30PM 7:30PM TNT
+257 Tue. 11/22/22 Sacramento Memphis 7:00PM 8:00PM
+258 Tue. 11/22/22 Detroit Denver 7:00PM 9:00PM
+259 Tue. 11/22/22 Lakers Phoenix 8:00PM 10:00PM TNT
+260 Wed. 11/23/22 Philadelphia Charlotte 7:00PM 7:00PM
+261 Wed. 11/23/22 Portland Cleveland 7:00PM 7:00PM
+262 Wed. 11/23/22 Minnesota Indiana 7:00PM 7:00PM
+263 Wed. 11/23/22 Sacramento Atlanta 7:30PM 7:30PM
+264 Wed. 11/23/22 Dallas Boston 7:30PM 7:30PM ESPN
+265 Wed. 11/23/22 Washington Miami 7:30PM 7:30PM
+266 Wed. 11/23/22 Brooklyn Toronto 7:30PM 7:30PM
+267 Wed. 11/23/22 Chicago Milwaukee 7:00PM 8:00PM
+268 Wed. 11/23/22 Denver Thunder 7:00PM 8:00PM
+269 Wed. 11/23/22 NOLA Spurs 7:00PM 8:00PM
+270 Wed. 11/23/22 Detroit Utah 7:00PM 9:00PM
+271 Wed. 11/23/22 Clippers Warriors 7:00PM 10:00PM ESPN
+272 Fri. 11/25/22 Minnesota Charlotte 5:00PM 5:00PM
+273 Fri. 11/25/22 Philadelphia Orlando 7:00PM 7:00PM
+274 Fri. 11/25/22 Portland Knicks 7:30PM 7:30PM
+275 Fri. 11/25/22 Sacramento Boston 8:00PM 8:00PM
+276 Fri. 11/25/22 Brooklyn Indiana 8:00PM 8:00PM
+277 Fri. 11/25/22 Washington Miami 8:00PM 8:00PM
+278 Fri. 11/25/22 Atlanta Houston 7:00PM 8:00PM
+279 Fri. 11/25/22 NOLA Memphis 7:00PM 8:00PM NBA TV
+280 Fri. 11/25/22 Cleveland Milwaukee 7:00PM 8:00PM
+281 Fri. 11/25/22 Chicago Thunder 7:00PM 8:00PM
+282 Fri. 11/25/22 Lakers Spurs 7:00PM 8:00PM
+283 Fri. 11/25/22 Detroit Phoenix 7:00PM 9:00PM
+284 Fri. 11/25/22 Utah Warriors 7:00PM 10:00PM
+285 Fri. 11/25/22 Denver Clippers 7:30PM 10:30PM NBA TV
+286 Sat. 11/26/22 Dallas Toronto 5:00PM 5:00PM
+287 Sat. 11/26/22 Thunder Houston 7:00PM 8:00PM NBA TV
+288 Sat. 11/26/22 Lakers Spurs 7:00PM 8:00PM
+289 Sat. 11/26/22 Utah Phoenix 7:00PM 9:00PM
+290 Sun. 11/27/22 Portland Brooklyn 3:00PM 3:00PM
+291 Sun. 11/27/22 Warriors Minnesota 2:30PM 3:30PM
+292 Sun. 11/27/22 Indiana Clippers 1:00PM 4:00PM
+293 Sun. 11/27/22 Miami Atlanta 5:00PM 5:00PM
+294 Sun. 11/27/22 Washington Boston 6:00PM 6:00PM
+295 Sun. 11/27/22 Cleveland Detroit 6:00PM 6:00PM
+296 Sun. 11/27/22 Memphis Knicks 6:00PM 6:00PM
+297 Sun. 11/27/22 Philadelphia Orlando 6:00PM 6:00PM
+298 Sun. 11/27/22 Dallas Milwaukee 7:00PM 8:00PM NBA TV
+299 Mon. 11/28/22 Atlanta Philadelphia 7:00PM 7:00PM NBA TV
+300 Mon. 11/28/22 Minnesota Washington 7:00PM 7:00PM
+301 Mon. 11/28/22 Charlotte Boston 7:30PM 7:30PM
+302 Mon. 11/28/22 Orlando Brooklyn 7:30PM 7:30PM
+303 Mon. 11/28/22 Cleveland Toronto 7:30PM 7:30PM
+304 Mon. 11/28/22 Thunder NOLA 7:00PM 8:00PM
+305 Mon. 11/28/22 Houston Denver 7:00PM 9:00PM
+306 Mon. 11/28/22 Chicago Utah 7:00PM 9:00PM
+307 Mon. 11/28/22 Phoenix Sacramento 7:00PM 10:00PM
+308 Mon. 11/28/22 Indiana Lakers 7:30PM 10:30PM
+309 Tue. 11/29/22 Knicks Detroit 7:00PM 7:00PM
+310 Tue. 11/29/22 Warriors Dallas 6:30PM 7:30PM TNT
+311 Tue. 11/29/22 Clippers Portland 7:00PM 10:00PM TNT
+312 Wed. 11/30/22 Philadelphia Cleveland 7:00PM 7:00PM
+313 Wed. 11/30/22 Atlanta Orlando 7:00PM 7:00PM
+314 Wed. 11/30/22 Miami Boston 7:30PM 7:30PM NBA TV
+315 Wed. 11/30/22 Washington Brooklyn 7:30PM 7:30PM
+316 Wed. 11/30/22 Milwaukee Knicks 7:30PM 7:30PM
+317 Wed. 11/30/22 Memphis Minnesota 7:00PM 8:00PM
+318 Wed. 11/30/22 Toronto NOLA 7:00PM 8:00PM
+319 Wed. 11/30/22 Spurs Thunder 7:00PM 8:00PM
+320 Wed. 11/30/22 Houston Denver 7:00PM 9:00PM
+321 Wed. 11/30/22 Chicago Phoenix 7:00PM 9:00PM
+322 Wed. 11/30/22 Clippers Utah 7:00PM 9:00PM
+323 Wed. 11/30/22 Indiana Sacramento 7:00PM 10:00PM
+324 Wed. 11/30/22 Portland Lakers 7:30PM 10:30PM NBA TV
+325 Thu. 12/1/22 Dallas Detroit 7:00PM 7:00PM NBA TV
+326 Fri. 12/2/22 Washington Charlotte 7:00PM 7:00PM
+327 Fri. 12/2/22 Denver Atlanta 7:30PM 7:30PM
+328 Fri. 12/2/22 Miami Boston 7:30PM 7:30PM
+329 Fri. 12/2/22 Toronto Brooklyn 7:30PM 7:30PM
+330 Fri. 12/2/22 Orlando Cleveland 7:30PM 7:30PM
+331 Fri. 12/2/22 Lakers Milwaukee 6:30PM 7:30PM ESPN
+332 Fri. 12/2/22 Philadelphia Memphis 7:00PM 8:00PM
+333 Fri. 12/2/22 NOLA Spurs 7:00PM 8:00PM
+334 Fri. 12/2/22 Houston Phoenix 7:00PM 9:00PM
+335 Fri. 12/2/22 Indiana Utah 7:00PM 9:00PM
+336 Fri. 12/2/22 Chicago Warriors 7:00PM 10:00PM ESPN
+337 Sat. 12/3/22 Dallas Knicks 12:30PM 12:30PM
+338 Sat. 12/3/22 Sacramento Clippers 1:00PM 4:00PM
+339 Sat. 12/3/22 Milwaukee Charlotte 6:00PM 6:00PM
+340 Sat. 12/3/22 Orlando Toronto 8:00PM 8:00PM
+341 Sat. 12/3/22 Thunder Minnesota 7:00PM 8:00PM
+342 Sat. 12/3/22 Houston Warriors 5:30PM 8:30PM
+343 Sat. 12/3/22 Portland Utah 7:00PM 9:00PM
+344 Sun. 12/4/22 Denver NOLA 2:30PM 3:30PM
+345 Sun. 12/4/22 Phoenix Spurs 3:00PM 4:00PM
+346 Sun. 12/4/22 Boston Brooklyn 6:00PM 6:00PM
+347 Sun. 12/4/22 Memphis Detroit 6:00PM 6:00PM
+348 Sun. 12/4/22 Cleveland Knicks 6:00PM 6:00PM
+349 Sun. 12/4/22 Lakers Washington 6:00PM 6:00PM
+350 Sun. 12/4/22 Chicago Sacramento 3:00PM 6:00PM
+351 Sun. 12/4/22 Indiana Portland 6:00PM 9:00PM NBA TV
+352 Mon. 12/5/22 Clippers Charlotte 7:00PM 7:00PM
+353 Mon. 12/5/22 Milwaukee Orlando 7:00PM 7:00PM
+354 Mon. 12/5/22 Thunder Atlanta 7:30PM 7:30PM
+355 Mon. 12/5/22 Boston Toronto 7:30PM 7:30PM
+356 Mon. 12/5/22 Philadelphia Houston 7:00PM 8:00PM
+357 Mon. 12/5/22 Miami Memphis 7:00PM 8:00PM
+358 Mon. 12/5/22 Phoenix Dallas 7:30PM 8:30PM NBA TV
+359 Mon. 12/5/22 Indiana Warriors 7:00PM 10:00PM
+360 Tue. 12/6/22 Lakers Cleveland 7:30PM 7:30PM TNT
+361 Tue. 12/6/22 Detroit Miami 7:30PM 7:30PM
+362 Tue. 12/6/22 Dallas Denver 8:00PM 10:00PM TNT
+363 Wed. 12/7/22 Clippers Orlando 7:00PM 7:00PM
+364 Wed. 12/7/22 Charlotte Brooklyn 7:30PM 7:30PM
+365 Wed. 12/7/22 Atlanta Knicks 7:30PM 7:30PM ESPN
+366 Wed. 12/7/22 Lakers Toronto 7:30PM 7:30PM
+367 Wed. 12/7/22 Washington Chicago 7:00PM 8:00PM
+368 Wed. 12/7/22 Thunder Memphis 7:00PM 8:00PM
+369 Wed. 12/7/22 Sacramento Milwaukee 7:00PM 8:00PM
+370 Wed. 12/7/22 Indiana Minnesota 7:00PM 8:00PM
+371 Wed. 12/7/22 Detroit NOLA 7:00PM 8:00PM
+372 Wed. 12/7/22 Warriors Utah 7:00PM 9:00PM
+373 Wed. 12/7/22 Boston Phoenix 8:00PM 10:00PM ESPN
+374 Thu. 12/8/22 Clippers Miami 7:30PM 7:30PM NBA TV
+375 Thu. 12/8/22 Houston Spurs 7:30PM 8:30PM
+376 Thu. 12/8/22 Denver Portland 7:00PM 10:00PM NBA TV
+377 Fri. 12/9/22 Knicks Charlotte 7:00PM 7:00PM
+378 Fri. 12/9/22 Washington Indiana 7:00PM 7:00PM
+379 Fri. 12/9/22 Toronto Orlando 7:00PM 7:00PM
+380 Fri. 12/9/22 Atlanta Brooklyn 7:30PM 7:30PM
+381 Fri. 12/9/22 Sacramento Cleveland 7:30PM 7:30PM
+382 Fri. 12/9/22 Lakers Philadelphia 7:30PM 7:30PM ESPN
+383 Fri. 12/9/22 Detroit Memphis 7:00PM 8:00PM
+384 Fri. 12/9/22 Phoenix NOLA 7:30PM 8:30PM
+385 Fri. 12/9/22 Minnesota Utah 7:00PM 9:00PM
+386 Fri. 12/9/22 Milwaukee Dallas 9:00PM 10:00PM ESPN
+387 Sat. 12/10/22 Spurs Miami 5:00PM 5:00PM
+388 Sat. 12/10/22 Brooklyn Indiana 7:00PM 7:00PM
+389 Sat. 12/10/22 Clippers Washington 7:00PM 7:00PM
+390 Sat. 12/10/22 Thunder Cleveland 7:30PM 7:30PM
+391 Sat. 12/10/22 Dallas Chicago 7:00PM 8:00PM
+392 Sat. 12/10/22 Boston Warriors 5:30PM 8:30PM ABC
+393 Sat. 12/10/22 Utah Denver 7:00PM 9:00PM
+394 Sat. 12/10/22 Minnesota Portland 7:00PM 10:00PM
+395 Sun. 12/11/22 Phoenix NOLA 2:30PM 3:30PM
+396 Sun. 12/11/22 Lakers Detroit 6:00PM 6:00PM
+397 Sun. 12/11/22 Sacramento Knicks 6:00PM 6:00PM
+398 Sun. 12/11/22 Toronto Orlando 6:00PM 6:00PM
+399 Sun. 12/11/22 Charlotte Philadelphia 6:00PM 6:00PM
+400 Sun. 12/11/22 Chicago Atlanta 6:30PM 6:30PM
+401 Sun. 12/11/22 Milwaukee Houston 6:00PM 7:00PM
+402 Mon. 12/12/22 Miami Indiana 7:00PM 7:00PM
+403 Mon. 12/12/22 Brooklyn Washington 7:00PM 7:00PM
+404 Mon. 12/12/22 Atlanta Memphis 7:00PM 8:00PM NBA TV
+405 Mon. 12/12/22 Thunder Dallas 7:30PM 8:30PM
+406 Mon. 12/12/22 Cleveland Spurs 7:30PM 8:30PM
+407 Mon. 12/12/22 Minnesota Portland 7:00PM 10:00PM
+408 Mon. 12/12/22 Boston Clippers 7:30PM 10:30PM NBA TV
+409 Tue. 12/13/22 Sacramento Philadelphia 7:00PM 7:00PM
+410 Tue. 12/13/22 Warriors Milwaukee 6:30PM 7:30PM TNT
+411 Tue. 12/13/22 Phoenix Houston 7:00PM 8:00PM
+412 Tue. 12/13/22 NOLA Utah 7:00PM 9:00PM
+413 Tue. 12/13/22 Boston Lakers 7:00PM 10:00PM TNT
+414 Wed. 12/14/22 Detroit Charlotte 7:00PM 7:00PM
+415 Wed. 12/14/22 Warriors Indiana 7:00PM 7:00PM
+416 Wed. 12/14/22 Atlanta Orlando 7:00PM 7:00PM
+417 Wed. 12/14/22 Sacramento Toronto 7:30PM 7:30PM
+418 Wed. 12/14/22 Knicks Chicago 6:30PM 7:30PM ESPN
+419 Wed. 12/14/22 Miami Thunder 7:00PM 8:00PM
+420 Wed. 12/14/22 Portland Spurs 7:00PM 8:00PM
+421 Wed. 12/14/22 Cleveland Dallas 8:00PM 9:00PM
+422 Wed. 12/14/22 Washington Denver 7:00PM 9:00PM
+423 Wed. 12/14/22 Minnesota Clippers 7:00PM 10:00PM ESPN
+424 Thu. 12/15/22 Miami Houston 7:00PM 8:00PM
+425 Thu. 12/15/22 Milwaukee Memphis 7:00PM 8:00PM NBA TV
+426 Thu. 12/15/22 NOLA Utah 7:00PM 9:00PM
+427 Thu. 12/15/22 Phoenix Clippers 7:30PM 10:30PM NBA TV
+428 Fri. 12/16/22 Atlanta Charlotte 7:00PM 7:00PM
+429 Fri. 12/16/22 Sacramento Detroit 7:00PM 7:00PM
+430 Fri. 12/16/22 Orlando Boston 7:30PM 7:30PM
+431 Fri. 12/16/22 Indiana Cleveland 7:30PM 7:30PM
+432 Fri. 12/16/22 Warriors Philadelphia 7:30PM 7:30PM ESPN
+433 Fri. 12/16/22 Brooklyn Toronto 7:30PM 7:30PM
+434 Fri. 12/16/22 Knicks Chicago 7:00PM 8:00PM
+435 Fri. 12/16/22 Minnesota Thunder 7:00PM 8:00PM
+436 Fri. 12/16/22 Portland Dallas 7:30PM 8:30PM
+437 Fri. 12/16/22 Denver Lakers 7:00PM 10:00PM ESPN
+438 Sat. 12/17/22 Washington Clippers 1:00PM 4:00PM
+439 Sat. 12/17/22 Miami Spurs 4:00PM 5:00PM NBA TV A
+440 Sat. 12/17/22 Dallas Cleveland 8:00PM 8:00PM
+441 Sat. 12/17/22 Portland Houston 7:00PM 8:00PM
+442 Sat. 12/17/22 Utah Milwaukee 7:00PM 8:00PM
+443 Sat. 12/17/22 Memphis Thunder 7:00PM 8:00PM
+444 Sat. 12/17/22 NOLA Phoenix 7:00PM 9:00PM NBA TV
+445 Sun. 12/18/22 Orlando Boston 3:00PM 3:00PM
+446 Sun. 12/18/22 Knicks Indiana 5:00PM 5:00PM
+447 Sun. 12/18/22 Brooklyn Detroit 6:00PM 6:00PM
+448 Sun. 12/18/22 Warriors Toronto 6:00PM 6:00PM
+449 Sun. 12/18/22 Chicago Minnesota 6:00PM 7:00PM
+450 Sun. 12/18/22 Charlotte Denver 6:00PM 8:00PM
+451 Sun. 12/18/22 Washington Lakers 6:30PM 9:30PM
+452 Mon. 12/19/22 Utah Cleveland 7:00PM 7:00PM
+453 Mon. 12/19/22 Toronto Philadelphia 7:00PM 7:00PM
+454 Mon. 12/19/22 Orlando Atlanta 7:30PM 7:30PM
+455 Mon. 12/19/22 Spurs Houston 7:00PM 8:00PM
+456 Mon. 12/19/22 Dallas Minnesota 7:00PM 8:00PM
+457 Mon. 12/19/22 Milwaukee NOLA 7:00PM 8:00PM
+458 Mon. 12/19/22 Portland Thunder 7:00PM 8:00PM
+459 Mon. 12/19/22 Lakers Phoenix 7:00PM 9:00PM NBA TV
+460 Mon. 12/19/22 Charlotte Sacramento 7:00PM 10:00PM
+461 Tue. 12/20/22 Utah Detroit 7:00PM 7:00PM
+462 Tue. 12/20/22 Chicago Miami 7:30PM 7:30PM
+463 Tue. 12/20/22 Warriors Knicks 7:30PM 7:30PM TNT
+464 Tue. 12/20/22 Washington Phoenix 7:00PM 9:00PM
+465 Tue. 12/20/22 Memphis Denver 8:00PM 10:00PM TNT
+466 Wed. 12/21/22 Milwaukee Cleveland 7:00PM 7:00PM
+467 Wed. 12/21/22 Detroit Philadelphia 7:00PM 7:00PM
+468 Wed. 12/21/22 Chicago Atlanta 7:30PM 7:30PM
+469 Wed. 12/21/22 Indiana Boston 7:30PM 7:30PM
+470 Wed. 12/21/22 Warriors Brooklyn 7:30PM 7:30PM NBA TV
+471 Wed. 12/21/22 Toronto Knicks 7:30PM 7:30PM
+472 Wed. 12/21/22 Orlando Houston 7:00PM 8:00PM
+473 Wed. 12/21/22 Dallas Minnesota 7:00PM 8:00PM
+474 Wed. 12/21/22 Portland Thunder 7:00PM 8:00PM
+475 Wed. 12/21/22 Lakers Sacramento 7:00PM 10:00PM
+476 Wed. 12/21/22 Charlotte Clippers 7:30PM 10:30PM NBA TV
+477 Thu. 12/22/22 Spurs NOLA 7:00PM 8:00PM
+478 Thu. 12/22/22 Washington Utah 7:00PM 9:00PM NBA TV
+479 Fri. 12/23/22 Spurs Orlando 7:00PM 7:00PM
+480 Fri. 12/23/22 Clippers Philadelphia 7:00PM 7:00PM
+481 Fri. 12/23/22 Detroit Atlanta 7:30PM 7:30PM
+482 Fri. 12/23/22 Minnesota Boston 7:30PM 7:30PM NBA TV
+483 Fri. 12/23/22 Milwaukee Brooklyn 7:30PM 7:30PM
+484 Fri. 12/23/22 Toronto Cleveland 7:30PM 7:30PM
+485 Fri. 12/23/22 Chicago Knicks 7:30PM 7:30PM
+486 Fri. 12/23/22 Indiana Miami 8:00PM 8:00PM
+487 Fri. 12/23/22 Dallas Houston 7:00PM 8:00PM
+488 Fri. 12/23/22 NOLA Thunder 7:00PM 8:00PM
+489 Fri. 12/23/22 Portland Denver 7:00PM 9:00PM
+490 Fri. 12/23/22 Memphis Phoenix 8:00PM 10:00PM ESPN
+491 Fri. 12/23/22 Washington Sacramento 7:00PM 10:00PM
+492 Fri. 12/23/22 Charlotte Lakers 7:30PM 10:30PM
+493 Sun. 12/25/22 Philadelphia Knicks 12:00PM 12:00PM ESPN
+494 Sun. 12/25/22 Lakers Dallas 1:30PM 2:30PM ABC/ESPN
+495 Sun. 12/25/22 Milwaukee Boston 5:00PM 5:00PM ABC/ESPN
+496 Sun. 12/25/22 Memphis Warriors 5:00PM 8:00PM ABC/ESPN
+497 Sun. 12/25/22 Phoenix Denver 8:30PM 10:30PM ESPN
+498 Mon. 12/26/22 Brooklyn Cleveland 7:00PM 7:00PM NBA TV
+499 Mon. 12/26/22 Clippers Detroit 7:00PM 7:00PM
+500 Mon. 12/26/22 Minnesota Miami 7:30PM 7:30PM
+501 Mon. 12/26/22 Houston Chicago 7:00PM 8:00PM
+502 Mon. 12/26/22 Indiana NOLA 7:00PM 8:00PM
+503 Mon. 12/26/22 Utah Spurs 7:00PM 8:00PM
+504 Mon. 12/26/22 Charlotte Portland 7:00PM 10:00PM NBA TV
+505 Tue. 12/27/22 Lakers Orlando 7:00PM 7:00PM
+506 Tue. 12/27/22 Philadelphia Washington 7:00PM 7:00PM
+507 Tue. 12/27/22 Houston Boston 7:30PM 7:30PM
+508 Tue. 12/27/22 Atlanta Indiana 7:30PM 7:30PM
+509 Tue. 12/27/22 Clippers Toronto 7:30PM 7:30PM NBA TV
+510 Tue. 12/27/22 Phoenix Memphis 7:00PM 8:00PM
+511 Tue. 12/27/22 Spurs Thunder 7:00PM 8:00PM
+512 Tue. 12/27/22 Knicks Dallas 7:30PM 8:30PM
+513 Tue. 12/27/22 Charlotte Warriors 7:00PM 10:00PM NBA TV
+514 Tue. 12/27/22 Denver Sacramento 7:00PM 10:00PM
+515 Wed. 12/28/22 Orlando Detroit 7:00PM 7:00PM
+516 Wed. 12/28/22 Phoenix Washington 7:00PM 7:00PM
+517 Wed. 12/28/22 Brooklyn Atlanta 7:30PM 7:30PM
+518 Wed. 12/28/22 Lakers Miami 7:30PM 7:30PM NBA TV
+519 Wed. 12/28/22 Milwaukee Chicago 7:00PM 8:00PM
+520 Wed. 12/28/22 Minnesota NOLA 7:00PM 8:00PM
+521 Wed. 12/28/22 Utah Warriors 7:00PM 10:00PM
+522 Wed. 12/28/22 Denver Sacramento 7:00PM 10:00PM NBA TV
+523 Thu. 12/29/22 Thunder Charlotte 7:00PM 7:00PM
+524 Thu. 12/29/22 Cleveland Indiana 7:00PM 7:00PM
+525 Thu. 12/29/22 Clippers Boston 7:30PM 7:30PM NBA TV
+526 Thu. 12/29/22 Memphis Toronto 7:30PM 7:30PM
+527 Thu. 12/29/22 Knicks Spurs 7:00PM 8:00PM
+528 Thu. 12/29/22 Houston Dallas 7:30PM 8:30PM
+529 Fri. 12/30/22 Washington Orlando 7:00PM 7:00PM
+530 Fri. 12/30/22 Lakers Atlanta 7:30PM 7:30PM NBA TV
+531 Fri. 12/30/22 Phoenix Toronto 7:30PM 7:30PM
+532 Fri. 12/30/22 Detroit Chicago 7:00PM 8:00PM
+533 Fri. 12/30/22 Minnesota Milwaukee 7:00PM 8:00PM
+534 Fri. 12/30/22 Philadelphia NOLA 7:30PM 8:30PM
+535 Fri. 12/30/22 Miami Denver 7:00PM 9:00PM
+536 Fri. 12/30/22 Portland Warriors 7:00PM 10:00PM NBA TV 
+537 Fri. 12/30/22 Utah Sacramento 7:00PM 10:00PM
+538 Sat. 12/31/22 Clippers Indiana 3:00PM 3:00PM
+539 Sat. 12/31/22 Brooklyn Charlotte 7:00PM 7:00PM
+540 Sat. 12/31/22 Cleveland Chicago 6:00PM 7:00PM
+541 Sat. 12/31/22 Knicks Houston 6:00PM 7:00PM
+542 Sat. 12/31/22 Dallas Spurs 6:00PM 7:00PM
+543 Sat. 12/31/22 NOLA Memphis 7:00PM 8:00PM
+544 Sat. 12/31/22 Detroit Minnesota 7:00PM 8:00PM
+545 Sat. 12/31/22 Philadelphia Thunder 7:00PM 8:00PM
+546 Sat. 12/31/22 Miami Utah 7:00PM 9:00PM
+547 Sun. 1/1/23 Sacramento Memphis 7:00PM 8:00PM
+548 Sun. 1/1/23 Washington Milwaukee 7:00PM 8:00PM
+549 Sun. 1/1/23 Boston Denver 6:00PM 8:00PM
+550 Mon. 1/2/23 Phoenix Knicks 3:00PM 3:00PM
+551 Mon. 1/2/23 Lakers Charlotte 7:00PM 7:00PM
+552 Mon. 1/2/23 Chicago Cleveland 7:00PM 7:00PM
+553 Mon. 1/2/23 Toronto Indiana 7:00PM 7:00PM
+554 Mon. 1/2/23 NOLA Philadelphia 7:00PM 7:00PM
+555 Mon. 1/2/23 Spurs Brooklyn 7:30PM 7:30PM
+556 Mon. 1/2/23 Dallas Houston 7:00PM 8:00PM
+557 Mon. 1/2/23 Denver Minnesota 7:00PM 8:00PM
+558 Mon. 1/2/23 Atlanta Warriors 7:00PM 10:00PM
+559 Mon. 1/2/23 Detroit Portland 7:00PM 10:00PM
+560 Mon. 1/2/23 Miami Clippers 7:30PM 10:30PM
+561 Tue. 1/3/23 Washington Milwaukee 7:00PM 8:00PM NBA TV
+562 Tue. 1/3/23 Boston Thunder 7:00PM 8:00PM
+563 Tue. 1/3/23 Sacramento Utah 7:00PM 9:00PM
+564 Wed. 1/4/23 Memphis Charlotte 7:00PM 7:00PM
+565 Wed. 1/4/23 Phoenix Cleveland 7:00PM 7:00PM
+566 Wed. 1/4/23 Thunder Orlando 7:00PM 7:00PM
+567 Wed. 1/4/23 Indiana Philadelphia 7:00PM 7:00PM
+568 Wed. 1/4/23 Spurs Knicks 7:30PM 7:30PM
+569 Wed. 1/4/23 Milwaukee Toronto 7:30PM 7:30PM ESPN
+570 Wed. 1/4/23 Brooklyn Chicago 7:00PM 8:00PM
+571 Wed. 1/4/23 Portland Minnesota 7:00PM 8:00PM
+572 Wed. 1/4/23 Houston NOLA 7:00PM 8:00PM
+573 Wed. 1/4/23 Detroit Warriors 7:00PM 10:00PM
+574 Wed. 1/4/23 Miami Lakers 7:00PM 10:00PM ESPN
+575 Wed. 1/4/23 Atlanta Sacramento 7:00PM 10:00PM
+576 Thu. 1/5/23 Memphis Orlando 7:00PM 7:00PM
+577 Thu. 1/5/23 Boston Dallas 6:30PM 7:30PM TNT
+578 Thu. 1/5/23 Utah Houston 7:00PM 8:00PM
+579 Thu. 1/5/23 Clippers Denver 8:00PM 10:00PM TNT
+580 Fri. 1/6/23 Portland Indiana 7:00PM 7:00PM
+581 Fri. 1/6/23 Chicago Philadelphia 7:30PM 7:30PM ESPN
+582 Fri. 1/6/23 Knicks Toronto 7:30PM 7:30PM
+583 Fri. 1/6/23 Charlotte Milwaukee 7:00PM 8:00PM
+584 Fri. 1/6/23 Washington Thunder 7:00PM 8:00PM
+585 Fri. 1/6/23 Detroit Spurs 7:00PM 8:00PM
+586 Fri. 1/6/23 Brooklyn NOLA 7:30PM 8:30PM
+587 Fri. 1/6/23 Clippers Minnesota 8:00PM 9:00PM
+588 Fri. 1/6/23 Cleveland Denver 7:00PM 9:00PM
+589 Fri. 1/6/23 Miami Phoenix 8:00PM 10:00PM ESPN
+590 Fri. 1/6/23 Atlanta Lakers 7:30PM 10:30PM 
+591 Sat. 1/7/23 Boston Spurs 5:00PM 6:00PM
+592 Sat. 1/7/23 Utah Chicago 7:00PM 8:00PM
+593 Sat. 1/7/23 NOLA Dallas 7:00PM 8:00PM
+594 Sat. 1/7/23 Orlando Warriors 5:30PM 8:30PM
+595 Sat. 1/7/23 Lakers Sacramento 7:00PM 10:00PM
+596 Sun. 1/8/23 Philadelphia Detroit 3:00PM 3:00PM
+597 Sun. 1/8/23 Portland Toronto 3:30PM 3:30PM
+598 Sun. 1/8/23 Charlotte Indiana 5:00PM 5:00PM
+599 Sun. 1/8/23 Brooklyn Miami 6:00PM 6:00PM
+600 Sun. 1/8/23 Utah Memphis 5:00PM 6:00PM
+601 Sun. 1/8/23 Minnesota Houston 6:00PM 7:00PM
+602 Sun. 1/8/23 Dallas Thunder 6:00PM 7:00PM
+603 Sun. 1/8/23 Cleveland Phoenix 6:00PM 8:00PM
+604 Sun. 1/8/23 Atlanta Clippers 6:00PM 9:00PM
+605 Mon. 1/9/23 NOLA Washington 7:00PM 7:00PM
+606 Mon. 1/9/23 Chicago Boston 7:30PM 7:30PM NBA TV
+607 Mon. 1/9/23 Milwaukee Knicks 7:30PM 7:30PM
+608 Mon. 1/9/23 Spurs Memphis 7:00PM 8:00PM
+609 Mon. 1/9/23 Lakers Denver 7:00PM 9:00PM
+610 Mon. 1/9/23 Orlando Sacramento 7:00PM 10:00PM
+611 Tue. 1/10/23 Thunder Miami 7:30PM 7:30PM
+612 Tue. 1/10/23 Detroit Philadelphia 7:30PM 7:30PM TNT
+613 Tue. 1/10/23 Charlotte Toronto 7:30PM 7:30PM
+614 Tue. 1/10/23 Cleveland Utah 7:00PM 9:00PM
+615 Tue. 1/10/23 Phoenix Warriors 7:00PM 10:00PM TNT
+616 Tue. 1/10/23 Orlando Portland 7:00PM 10:00PM
+617 Tue. 1/10/23 Dallas Clippers 7:30PM 10:30PM
+618 Wed. 1/11/23 Minnesota Detroit 7:00PM 7:00PM
+619 Wed. 1/11/23 Chicago Washington 7:00PM 7:00PM
+620 Wed. 1/11/23 Milwaukee Atlanta 7:30PM 7:30PM ESPN
+621 Wed. 1/11/23 NOLA Boston 7:30PM 7:30PM
+622 Wed. 1/11/23 Indiana Knicks 7:30PM 7:30PM
+623 Wed. 1/11/23 Spurs Memphis 7:00PM 8:00PM
+624 Wed. 1/11/23 Phoenix Denver 7:00PM 9:00PM
+625 Wed. 1/11/23 Houston Sacramento 7:00PM 10:00PM ESPN
+626 Thu. 1/12/23 Thunder Philadelphia 7:00PM 7:00PM
+627 Thu. 1/12/23 Boston Brooklyn 7:30PM 7:30PM TNT
+628 Thu. 1/12/23 Milwaukee Miami 7:30PM 7:30PM
+629 Thu. 1/12/23 Charlotte Toronto 7:30PM 7:30PM
+630 Thu. 1/12/23 Dallas Lakers 7:00PM 10:00PM TNT
+631 Thu. 1/12/23 Cleveland Portland 7:00PM 10:00PM
+632 Fri. 1/13/23 NOLA Detroit 7:00PM 7:00PM
+633 Fri. 1/13/23 Atlanta Indiana 7:00PM 7:00PM
+634 Fri. 1/13/23 Knicks Washington 7:00PM 7:00PM
+635 Fri. 1/13/23 Warriors Spurs 6:30PM 7:30PM ESPN B
+636 Fri. 1/13/23 Thunder Chicago 7:00PM 8:00PM
+637 Fri. 1/13/23 Phoenix Minnesota 7:00PM 8:00PM
+638 Fri. 1/13/23 Orlando Utah 7:00PM 9:00PM
+639 Fri. 1/13/23 Denver Clippers 7:00PM 10:00PM ESPN
+640 Fri. 1/13/23 Houston Sacramento 7:00PM 10:00PM
+641 Sat. 1/14/23 Milwaukee Miami 1:00PM 1:00PM ABC
+642 Sat. 1/14/23 Boston Charlotte 7:00PM 7:00PM
+643 Sat. 1/14/23 Memphis Indiana 7:00PM 7:00PM
+644 Sat. 1/14/23 Atlanta Toronto 7:30PM 7:30PM 
+645 Sat. 1/14/23 Cleveland Minnesota 7:00PM 8:00PM
+646 Sat. 1/14/23 Philadelphia Utah 7:00PM 9:00PM
+647 Sat. 1/14/23 Dallas Portland 7:00PM 10:00PM
+648 Sun. 1/15/23 Knicks Detroit 1:00PM 1:00PM
+649 Sun. 1/15/23 Houston Clippers 12:00PM 3:00PM
+650 Sun. 1/15/23 Warriors Chicago 2:30PM 3:30PM
+651 Sun. 1/15/23 Thunder Brooklyn 6:00PM 6:00PM
+652 Sun. 1/15/23 Sacramento Spurs 6:00PM 7:00PM
+653 Sun. 1/15/23 Orlando Denver 6:00PM 8:00PM
+654 Sun. 1/15/23 Dallas Portland 6:00PM 9:00PM
+655 Sun. 1/15/23 Philadelphia Lakers 6:30PM 9:30PM NBA TV
+656 Mon. 1/16/23 Boston Charlotte 1:00PM 1:00PM NBA TV
+657 Mon. 1/16/23 Indiana Milwaukee 1:30PM 2:30PM
+658 Mon. 1/16/23 NOLA Cleveland 3:00PM 3:00PM
+659 Mon. 1/16/23 Toronto Knicks 3:00PM 3:00PM
+660 Mon. 1/16/23 Warriors Washington 3:00PM 3:00PM
+661 Mon. 1/16/23 Miami Atlanta 3:30PM 3:30PM TNT
+662 Mon. 1/16/23 Utah Minnesota 3:00PM 4:00PM
+663 Mon. 1/16/23 Phoenix Memphis 5:00PM 6:00PM TNT
+664 Mon. 1/16/23 Houston Lakers 7:30PM 10:30PM NBA TV
+665 Tue. 1/17/23 Toronto Milwaukee 6:30PM 7:30PM TNT
+666 Tue. 1/17/23 Brooklyn Spurs 7:00PM 8:00PM
+667 Tue. 1/17/23 Portland Denver 7:00PM 9:00PM
+668 Tue. 1/17/23 Philadelphia Clippers 7:00PM 10:00PM TNT
+669 Wed. 1/18/23 Washington Knicks 7:30PM 7:30PM
+670 Wed. 1/18/23 Atlanta Dallas 6:30PM 7:30PM ESPN
+671 Wed. 1/18/23 Charlotte Houston 7:00PM 8:00PM
+672 Wed. 1/18/23 Cleveland Memphis 7:00PM 8:00PM
+673 Wed. 1/18/23 Miami NOLA 7:00PM 8:00PM
+674 Wed. 1/18/23 Indiana Thunder 7:00PM 8:00PM
+675 Wed. 1/18/23 Clippers Utah 7:00PM 9:00PM
+676 Wed. 1/18/23 Minnesota Denver 8:00PM 10:00PM ESPN
+677 Wed. 1/18/23 Sacramento Lakers 7:30PM 10:30PM
+678 Thu. 1/19/23 Chicago Detroit 9:00PM 3:00PM NBA TV C
+679 Thu. 1/19/23 Warriors Boston 7:30PM 7:30PM TNT
+680 Thu. 1/19/23 Toronto Minnesota 7:00PM 8:00PM
+681 Thu. 1/19/23 Brooklyn Phoenix 8:00PM 10:00PM TNT
+682 Thu. 1/19/23 Philadelphia Portland 7:00PM 10:00PM
+683 Fri. 1/20/23 NOLA Orlando 7:00PM 7:00PM
+684 Fri. 1/20/23 Knicks Atlanta 7:30PM 7:30PM
+685 Fri. 1/20/23 Warriors Cleveland 7:30PM 7:30PM
+686 Fri. 1/20/23 Miami Dallas 6:30PM 7:30PM ESPN
+687 Fri. 1/20/23 Clippers Spurs 7:00PM 8:00PM
+688 Fri. 1/20/23 Indiana Denver 7:00PM 9:00PM
+689 Fri. 1/20/23 Brooklyn Utah 7:00PM 9:00PM
+690 Fri. 1/20/23 Memphis Lakers 7:00PM 10:00PM ESPN
+691 Fri. 1/20/23 Thunder Sacramento 7:00PM 10:00PM
+692 Sat. 1/21/23 Boston Toronto 5:00PM 5:00PM
+693 Sat. 1/21/23 Orlando Washington 7:00PM 7:00PM
+694 Sat. 1/21/23 Charlotte Atlanta 7:30PM 7:30PM
+695 Sat. 1/21/23 Milwaukee Cleveland 7:30PM 7:30PM
+696 Sat. 1/21/23 Houston Minnesota 7:00PM 8:00PM
+697 Sat. 1/21/23 Indiana Phoenix 7:00PM 9:00PM
+698 Sat. 1/21/23 Philadelphia Sacramento 7:00PM 10:00PM 
+699 Sun. 1/22/23 NOLA Miami 3:30PM 3:30PM
+700 Sun. 1/22/23 Knicks Toronto 6:00PM 6:00PM
+701 Sun. 1/22/23 Clippers Dallas 6:30PM 7:30PM
+702 Sun. 1/22/23 Thunder Denver 6:00PM 8:00PM
+703 Sun. 1/22/23 Memphis Phoenix 6:00PM 8:00PM
+704 Sun. 1/22/23 Brooklyn Warriors 5:30PM 8:30PM
+705 Sun. 1/22/23 Lakers Portland 6:00PM 9:00PM
+706 Mon. 1/23/23 Milwaukee Detroit 7:00PM 7:00PM
+707 Mon. 1/23/23 Boston Orlando 7:00PM 7:00PM
+708 Mon. 1/23/23 Atlanta Chicago 7:00PM 8:00PM NBA TV
+709 Mon. 1/23/23 Minnesota Houston 7:00PM 8:00PM
+710 Mon. 1/23/23 Charlotte Utah 7:00PM 9:00PM
+711 Mon. 1/23/23 Spurs Portland 7:00PM 10:00PM
+712 Mon. 1/23/23 Memphis Sacramento 7:30PM 10:30PM NBA TV
+713 Tue. 1/24/23 Chicago Indiana 7:00PM 7:00PM
+714 Tue. 1/24/23 Boston Miami 7:30PM 7:30PM TNT
+715 Tue. 1/24/23 Cleveland Knicks 7:30PM 7:30PM
+716 Tue. 1/24/23 Denver NOLA 7:00PM 8:00PM
+717 Tue. 1/24/23 Washington Dallas 7:30PM 8:30PM
+718 Tue. 1/24/23 Charlotte Phoenix 7:00PM 9:00PM
+719 Tue. 1/24/23 Clippers Lakers 7:00PM 10:00PM TNT
+720 Wed. 1/25/23 Indiana Orlando 7:00PM 7:00PM
+721 Wed. 1/25/23 Brooklyn Philadelphia 7:30PM 7:30PM ESPN
+722 Wed. 1/25/23 Washington Houston 7:00PM 8:00PM
+723 Wed. 1/25/23 Denver Milwaukee 7:00PM 8:00PM
+724 Wed. 1/25/23 Minnesota NOLA 7:00PM 8:00PM
+725 Wed. 1/25/23 Atlanta Thunder 7:00PM 8:00PM
+726 Wed. 1/25/23 Memphis Warriors 7:00PM 10:00PM ESPN
+727 Wed. 1/25/23 Utah Portland 7:00PM 10:00PM
+728 Wed. 1/25/23 Toronto Sacramento 7:00PM 10:00PM
+729 Wed. 1/25/23 Spurs Lakers 7:30PM 10:30PM
+730 Thu. 1/26/23 Knicks Boston 7:30PM 7:30PM
+731 Thu. 1/26/23 Detroit Brooklyn 7:30PM 7:30PM
+732 Thu. 1/26/23 Chicago Charlotte 7:30PM 7:30PM TNT
+733 Thu. 1/26/23 Cleveland Houston 7:00PM 8:00PM
+734 Thu. 1/26/23 Dallas Phoenix 8:00PM 10:00PM TNT
+735 Thu. 1/26/23 Spurs Clippers 7:30PM 10:30PM
+736 Fri. 1/27/23 Milwaukee Indiana 7:00PM 7:00PM
+737 Fri. 1/27/23 Memphis Minnesota 6:30PM 7:30PM NBA TV
+738 Fri. 1/27/23 Orlando Miami 8:00PM 8:00PM
+739 Fri. 1/27/23 Cleveland Thunder 7:00PM 8:00PM
+740 Fri. 1/27/23 Toronto Warriors 7:00PM 10:00PM NBA TV
+741 Sat. 1/28/23 Denver Philadelphia 3:00PM 3:00PM ABC
+742 Sat. 1/28/23 Knicks Brooklyn 5:30PM 5:30PM ABC
+743 Sat. 1/28/23 Houston Detroit 7:00PM 7:00PM
+744 Sat. 1/28/23 Chicago Orlando 7:00PM 7:00PM
+745 Sat. 1/28/23 Clippers Atlanta 7:30PM 7:30PM
+746 Sat. 1/28/23 Sacramento Minnesota 7:00PM 8:00PM
+747 Sat. 1/28/23 Washington NOLA 7:00PM 8:00PM
+748 Sat. 1/28/23 Phoenix Spurs 7:00PM 8:00PM
+749 Sat. 1/28/23 Lakers Boston 8:30PM 8:30PM ABC
+750 Sat. 1/28/23 Dallas Utah 7:00PM 9:00PM
+751 Sat. 1/28/23 Toronto Portland 7:00PM 10:00PM
+752 Sun. 1/29/23 Miami Charlotte 1:00PM 1:00PM 
+753 Sun. 1/29/23 Indiana Memphis 5:00PM 6:00PM
+754 Sun. 1/29/23 Clippers Cleveland 7:00PM 7:00PM
+755 Sun. 1/29/23 NOLA Milwaukee 7:00PM 8:00PM NBA TV
+756 Mon. 1/30/23 Orlando Philadelphia 7:00PM 7:00PM
+757 Mon. 1/30/23 Lakers Brooklyn 7:30PM 7:30PM NBA TV
+758 Mon. 1/30/23 Sacramento Minnesota 7:00PM 8:00PM
+759 Mon. 1/30/23 Warriors Thunder 7:00PM 8:00PM
+760 Mon. 1/30/23 Washington Spurs 7:00PM 8:00PM
+761 Mon. 1/30/23 Detroit Dallas 7:30PM 8:30PM
+762 Mon. 1/30/23 Toronto Phoenix 7:00PM 9:00PM
+763 Mon. 1/30/23 Atlanta Portland 7:00PM 10:00PM NBA TV
+764 Tue. 1/31/23 Miami Cleveland 7:00PM 7:00PM
+765 Tue. 1/31/23 Lakers Knicks 7:30PM 7:30PM TNT
+766 Tue. 1/31/23 Clippers Chicago 7:00PM 8:00PM
+767 Tue. 1/31/23 Charlotte Milwaukee 7:00PM 8:00PM
+768 Tue. 1/31/23 NOLA Denver 8:00PM 10:00PM TNT
+769 Wed. 2/1/23 Washington Detroit 7:00PM 7:00PM
+770 Wed. 2/1/23 Orlando Philadelphia 7:00PM 7:00PM
+771 Wed. 2/1/23 Portland Memphis 6:00PM 7:00PM
+772 Wed. 2/1/23 Brooklyn Boston 7:30PM 7:30PM ESPN
+773 Wed. 2/1/23 Thunder Houston 7:00PM 8:00PM
+774 Wed. 2/1/23 Warriors Minnesota 7:00PM 8:00PM
+775 Wed. 2/1/23 Sacramento Spurs 7:00PM 8:00PM
+776 Wed. 2/1/23 Toronto Utah 7:00PM 9:00PM
+777 Wed. 2/1/23 Atlanta Phoenix 8:00PM 10:00PM ESPN
+778 Thu. 2/2/23 Lakers Indiana 7:00PM 7:00PM
+779 Thu. 2/2/23 Memphis Cleveland 7:30PM 7:30PM TNT
+780 Thu. 2/2/23 Miami Knicks 7:30PM 7:30PM
+781 Thu. 2/2/23 Charlotte Chicago 7:00PM 8:00PM
+782 Thu. 2/2/23 NOLA Dallas 7:30PM 8:30PM
+783 Thu. 2/2/23 Warriors Denver 7:00PM 9:00PM
+784 Thu. 2/2/23 Clippers Milwaukee 9:00PM 10:00PM TNT
+785 Fri. 2/3/23 Charlotte Detroit 7:00PM 7:00PM
+786 Fri. 2/3/23 Sacramento Indiana 7:00PM 7:00PM
+787 Fri. 2/3/23 Portland Washington 7:00PM 7:00PM
+788 Fri. 2/3/23 Phoenix Boston 7:30PM 7:30PM NBA TV
+789 Fri. 2/3/23 Toronto Houston 7:00PM 8:00PM
+790 Fri. 2/3/23 Orlando Minnesota 7:00PM 8:00PM
+791 Fri. 2/3/23 Philadelphia Spurs 7:00PM 8:00PM
+792 Fri. 2/3/23 Atlanta Utah 7:00PM 9:00PM
+793 Sat. 2/4/23 Washington Brooklyn 6:00PM 6:00PM
+794 Sat. 2/4/23 Phoenix Detroit 7:00PM 7:00PM
+795 Sat. 2/4/23 Clippers Knicks 7:00PM 7:00PM
+796 Sat. 2/4/23 Portland Chicago 7:00PM 8:00PM
+797 Sat. 2/4/23 Miami Milwaukee 7:00PM 8:00PM
+798 Sat. 2/4/23 Lakers NOLA 7:00PM 8:00PM
+799 Sat. 2/4/23 Houston Thunder 7:00PM 8:00PM
+800 Sat. 2/4/23 Dallas Warriors 5:30PM 8:30PM ABC
+801 Sat. 2/4/23 Atlanta Denver 7:00PM 9:00PM
+802 Sun. 2/5/23 Orlando Charlotte 1:00PM 1:00PM
+803 Sun. 2/5/23 Cleveland Indiana 5:00PM 5:00PM
+804 Sun. 2/5/23 Philadelphia Knicks 6:00PM 6:00PM ESPN
+805 Sun. 2/5/23 Toronto Memphis 5:00PM 6:00PM
+806 Sun. 2/5/23 Denver Minnesota 6:00PM 7:00PM 
+807 Sun. 2/5/23 Sacramento NOLA 6:00PM 7:00PM
+808 Mon. 2/6/23 Boston Detroit 7:00PM 7:00PM
+809 Mon. 2/6/23 Cleveland Washington 7:00PM 7:00PM
+810 Mon. 2/6/23 Clippers Brooklyn 7:30PM 7:30PM NBA TV
+811 Mon. 2/6/23 Spurs Chicago 7:00PM 8:00PM
+812 Mon. 2/6/23 Sacramento Houston 7:00PM 8:00PM
+813 Mon. 2/6/23 Dallas Utah 7:00PM 9:00PM
+814 Mon. 2/6/23 Thunder Warriors 7:00PM 10:00PM
+815 Mon. 2/6/23 Milwaukee Portland 7:00PM 10:00PM NBA TV
+816 Tue. 2/7/23 Knicks Orlando 7:00PM 7:00PM
+817 Tue. 2/7/23 Phoenix Brooklyn 7:30PM 7:30PM
+818 Tue. 2/7/23 Atlanta NOLA 6:30PM 7:30PM TNT
+819 Tue. 2/7/23 Chicago Memphis 7:00PM 8:00PM
+820 Tue. 2/7/23 Minnesota Denver 8:00PM 10:00PM TNT
+821 Tue. 2/7/23 Thunder Lakers 7:30PM 10:30PM
+822 Wed. 2/8/23 Detroit Cleveland 7:00PM 7:00PM
+823 Wed. 2/8/23 Charlotte Washington 7:00PM 7:00PM
+824 Wed. 2/8/23 Philadelphia Boston 7:30PM 7:30PM ESPN
+825 Wed. 2/8/23 Indiana Miami 7:30PM 7:30PM
+826 Wed. 2/8/23 Spurs Toronto 7:30PM 7:30PM
+827 Wed. 2/8/23 Sacramento Houston 7:00PM 8:00PM
+828 Wed. 2/8/23 Minnesota Utah 7:00PM 9:00PM
+829 Wed. 2/8/23 Dallas Clippers 7:00PM 10:00PM ESPN
+830 Wed. 2/8/23 Warriors Portland 7:00PM 10:00PM
+831 Thu. 2/9/23 Denver Orlando 7:00PM 7:00PM
+832 Thu. 2/9/23 Phoenix Atlanta 7:30PM 7:30PM
+833 Thu. 2/9/23 Chicago Brooklyn 7:30PM 7:30PM TNT
+834 Thu. 2/9/23 Milwaukee Lakers 7:00PM 10:00PM TNT
+835 Fri. 2/10/23 Spurs Detroit 7:00PM 7:00PM
+836 Fri. 2/10/23 Phoenix Indiana 7:00PM 7:00PM
+837 Fri. 2/10/23 Knicks Philadelphia 7:00PM 7:00PM
+838 Fri. 2/10/23 Charlotte Boston 7:30PM 7:30PM ESPN
+839 Fri. 2/10/23 Utah Toronto 7:30PM 7:30PM
+840 Fri. 2/10/23 Houston Miami 8:00PM 8:00PM
+841 Fri. 2/10/23 Minnesota Memphis 7:00PM 8:00PM
+842 Fri. 2/10/23 Cleveland NOLA 9:00PM 10:00PM ESPN
+843 Fri. 2/10/23 Thunder Portland 7:00PM 10:00PM
+844 Fri. 2/10/23 Dallas Sacramento 7:00PM 10:00PM
+845 Fri. 2/10/23 Milwaukee Clippers 7:30PM 10:30PM
+846 Sat. 2/11/23 Philadelphia Brooklyn 6:00PM 6:00PM NBA TV
+847 Sat. 2/11/23 Denver Charlotte 7:00PM 7:00PM
+848 Sat. 2/11/23 Miami Orlando 7:00PM 7:00PM
+849 Sat. 2/11/23 Indiana Washington 7:00PM 7:00PM
+850 Sat. 2/11/23 Spurs Atlanta 7:30PM 7:30PM
+851 Sat. 2/11/23 Utah Knicks 7:30PM 7:30PM
+852 Sat. 2/11/23 Chicago Cleveland 8:00PM 8:00PM
+853 Sat. 2/11/23 Lakers Warriors 5:30PM 8:30PM ABC
+854 Sat. 2/11/23 Dallas Sacramento 7:00PM 10:00PM
+855 Sun. 2/12/23 Memphis Boston 2:00PM 2:00PM ABC
+856 Sun. 2/12/23 Detroit Toronto 3:00PM 3:00PM
+857 Mon. 2/13/23 Atlanta Charlotte 7:00PM 7:00PM
+858 Mon. 2/13/23 Spurs Cleveland 7:00PM 7:00PM
+859 Mon. 2/13/23 Utah Indiana 7:00PM 7:00PM
+860 Mon. 2/13/23 Houston Philadelphia 7:00PM 7:00PM 
+861 Mon. 2/13/23 Denver Miami 7:30PM 7:30PM NBA TV
+862 Mon. 2/13/23 Brooklyn Knicks 7:30PM 7:30PM
+863 Mon. 2/13/23 Orlando Chicago 7:00PM 8:00PM
+864 Mon. 2/13/23 NOLA Thunder 7:00PM 8:00PM
+865 Mon. 2/13/23 Minnesota Dallas 7:30PM 8:30PM
+866 Mon. 2/13/23 Washington Warriors 7:00PM 10:00PM NBA TV
+867 Mon. 2/13/23 Lakers Portland 7:00PM 10:00PM
+868 Tue. 2/14/23 Orlando Toronto 7:30PM 7:30PM
+869 Tue. 2/14/23 Boston Milwaukee 6:30PM 7:30PM TNT
+870 Tue. 2/14/23 Sacramento Phoenix 7:00PM 9:00PM
+871 Tue. 2/14/23 Warriors Clippers 7:00PM 10:00PM TNT
+872 Tue. 2/14/23 Washington Portland 7:00PM 10:00PM
+873 Wed. 2/15/23 Spurs Charlotte 7:00PM 7:00PM
+874 Wed. 2/15/23 Chicago Indiana 7:00PM 7:00PM
+875 Wed. 2/15/23 Cleveland Philadelphia 7:00PM 7:00PM
+876 Wed. 2/15/23 Knicks Atlanta 7:30PM 7:30PM
+877 Wed. 2/15/23 Detroit Boston 7:30PM 7:30PM
+878 Wed. 2/15/23 Miami Brooklyn 7:30PM 7:30PM ESPN
+879 Wed. 2/15/23 Utah Memphis 7:00PM 8:00PM
+880 Wed. 2/15/23 Houston Thunder 7:00PM 8:00PM
+881 Wed. 2/15/23 Dallas Denver 7:00PM 9:00PM
+882 Wed. 2/15/23 NOLA Lakers 7:00PM 10:00PM ESPN
+883 Thu. 2/16/23 Milwaukee Chicago 6:30PM 7:30PM TNT
+884 Thu. 2/16/23 Washington Minnesota 7:00PM 8:00PM
+885 Thu. 2/16/23 Clippers Phoenix 8:00PM 10:00PM TNT
+886 Thu. 2/23/23 Denver Cleveland 7:00PM 7:00PM
+887 Thu. 2/23/23 Boston Indiana 7:00PM 7:00PM
+888 Thu. 2/23/23 Detroit Orlando 7:00PM 7:00PM
+889 Thu. 2/23/23 Memphis Philadelphia 7:30PM 7:30PM TNT
+890 Thu. 2/23/23 NOLA Toronto 7:30PM 7:30PM
+891 Thu. 2/23/23 Spurs Dallas 7:30PM 8:30PM
+892 Thu. 2/23/23 Thunder Utah 7:00PM 9:00PM
+893 Thu. 2/23/23 Warriors Lakers 7:00PM 10:00PM TNT
+894 Thu. 2/23/23 Portland Sacramento 7:00PM 10:00PM
+895 Fri. 2/24/23 Knicks Washington 7:00PM 7:00PM
+896 Fri. 2/24/23 Cleveland Atlanta 7:30PM 7:30PM
+897 Fri. 2/24/23 Miami Milwaukee 6:30PM 7:30PM ESPN
+898 Fri. 2/24/23 Charlotte Minnesota 7:00PM 8:00PM
+899 Fri. 2/24/23 Thunder Phoenix 7:00PM 9:00PM
+900 Fri. 2/24/23 Brooklyn Chicago 9:00PM 10:00PM ESPN
+901 Fri. 2/24/23 Houston Warriors 7:00PM 10:00PM
+902 Fri. 2/24/23 Sacramento Clippers 7:30PM 10:30PM
+903 Sat. 2/25/23 Toronto Detroit 12:00PM 12:00PM
+904 Sat. 2/25/23 Miami Charlotte 7:00PM 7:00PM
+905 Sat. 2/25/23 Indiana Orlando 7:00PM 7:00PM
+906 Sat. 2/25/23 NOLA Knicks 7:30PM 7:30PM
+907 Sat. 2/25/23 Denver Memphis 7:00PM 8:00PM
+908 Sat. 2/25/23 Boston Philadelphia 8:30PM 8:30PM ABC
+909 Sat. 2/25/23 Spurs Utah 7:00PM 9:00PM
+910 Sun. 2/26/23 Phoenix Milwaukee 12:00PM 1:00PM ABC
+911 Sun. 2/26/23 Brooklyn Atlanta 3:00PM 3:00PM
+912 Sun. 2/26/23 Washington Chicago 2:30PM 3:30PM
+913 Sun. 2/26/23 Lakers Dallas 2:30PM 3:30PM ABC
+914 Sun. 2/26/23 Toronto Cleveland 6:00PM 6:00PM 
+915 Sun. 2/26/23 Sacramento Thunder 6:00PM 7:00PM
+916 Sun. 2/26/23 Minnesota Warriors 4:30PM 7:30PM ESPN
+917 Sun. 2/26/23 Houston Portland 6:00PM 9:00PM
+918 Sun. 2/26/23 Clippers Denver 8:00PM 10:00PM ESPN
+919 Mon. 2/27/23 Detroit Charlotte 7:00PM 7:00PM
+920 Mon. 2/27/23 Miami Philadelphia 7:00PM 7:00PM NBA TV
+921 Mon. 2/27/23 Boston Knicks 7:30PM 7:30PM
+922 Mon. 2/27/23 Orlando NOLA 7:00PM 8:00PM
+923 Tue. 2/28/23 Washington Atlanta 7:30PM 7:30PM TNT
+924 Tue. 2/28/23 Milwaukee Brooklyn 7:30PM 7:30PM
+925 Tue. 2/28/23 Chicago Toronto 7:30PM 7:30PM
+926 Tue. 2/28/23 Denver Houston 7:00PM 8:00PM
+927 Tue. 2/28/23 Lakers Memphis 7:00PM 8:00PM
+928 Tue. 2/28/23 Sacramento Thunder 7:00PM 8:00PM
+929 Tue. 2/28/23 Indiana Dallas 7:30PM 8:30PM
+930 Tue. 2/28/23 Spurs Utah 7:00PM 9:00PM
+931 Tue. 2/28/23 Portland Warriors 7:00PM 10:00PM
+932 Tue. 2/28/23 Minnesota Clippers 7:00PM 10:00PM TNT
+933 Wed. 3/1/23 Phoenix Charlotte 7:00PM 7:00PM
+934 Wed. 3/1/23 Chicago Detroit 7:00PM 7:00PM
+935 Wed. 3/1/23 Cleveland Boston 7:30PM 7:30PM ESPN
+936 Wed. 3/1/23 Philadelphia Miami 7:30PM 7:30PM
+937 Wed. 3/1/23 Brooklyn Knicks 7:30PM 7:30PM
+938 Wed. 3/1/23 Memphis Houston 7:00PM 8:00PM
+939 Wed. 3/1/23 Orlando Milwaukee 7:00PM 8:00PM
+940 Wed. 3/1/23 Lakers Thunder 7:00PM 8:00PM
+941 Wed. 3/1/23 NOLA Portland 7:00PM 10:00PM ESPN
+942 Thu. 3/2/23 Toronto Washington 7:00PM 7:00PM
+943 Thu. 3/2/23 Philadelphia Dallas 6:30PM 7:30PM TNT
+944 Thu. 3/2/23 Indiana Spurs 7:30PM 8:30PM
+945 Thu. 3/2/23 Clippers Warriors 7:00PM 10:00PM TNT
+946 Fri. 3/3/23 Orlando Charlotte 7:00PM 7:00PM
+947 Fri. 3/3/23 Portland Atlanta 7:30PM 7:30PM
+948 Fri. 3/3/23 Brooklyn Boston 7:30PM 7:30PM ESPN
+949 Fri. 3/3/23 Knicks Miami 8:00PM 8:00PM
+950 Fri. 3/3/23 Phoenix Chicago 7:00PM 8:00PM
+951 Fri. 3/3/23 Utah Thunder 7:00PM 8:00PM
+952 Fri. 3/3/23 Memphis Denver 8:00PM 10:00PM ESPN
+953 Fri. 3/3/23 NOLA Warriors 7:00PM 10:00PM
+954 Fri. 3/3/23 Clippers Sacramento 7:00PM 10:00PM
+955 Fri. 3/3/23 Minnesota Lakers 7:30PM 10:30PM
+956 Sat. 3/4/23 Toronto Washington 5:00PM 5:00PM
+957 Sat. 3/4/23 Detroit Cleveland 8:00PM 8:00PM
+958 Sat. 3/4/23 Atlanta Miami 8:00PM 8:00PM
+959 Sat. 3/4/23 Houston Spurs 7:00PM 8:00PM
+960 Sat. 3/4/23 Philadelphia Milwaukee 7:30PM 8:30PM ABC
+961 Sat. 3/4/23 Minnesota Sacramento 7:00PM 10:00PM
+962 Sun. 3/5/23 Phoenix Dallas 12:00PM 1:00PM ABC
+963 Sun. 3/5/23 Indiana Chicago 2:30PM 3:30PM
+964 Sun. 3/5/23 Warriors Lakers 12:30PM 3:30PM ABC
+965 Sun. 3/5/23 Charlotte Brooklyn 6:00PM 6:00PM
+966 Sun. 3/5/23 Portland Orlando 6:00PM 6:00PM
+967 Sun. 3/5/23 Spurs Houston 6:00PM 7:00PM
+968 Sun. 3/5/23 Utah Thunder 6:00PM 7:00PM 
+969 Sun. 3/5/23 Knicks Boston 7:30PM 7:30PM ESPN
+970 Sun. 3/5/23 Memphis Clippers 7:00PM 10:00PM ESPN
+971 Mon. 3/6/23 Boston Cleveland 7:00PM 7:00PM
+972 Mon. 3/6/23 Philadelphia Indiana 7:00PM 7:00PM
+973 Mon. 3/6/23 Milwaukee Washington 7:00PM 7:00PM
+974 Mon. 3/6/23 Atlanta Miami 7:30PM 7:30PM NBA TV
+975 Mon. 3/6/23 Toronto Denver 7:00PM 9:00PM
+976 Mon. 3/6/23 NOLA Sacramento 7:00PM 10:00PM NBA TV
+977 Tue. 3/7/23 Portland Detroit 7:00PM 7:00PM
+978 Tue. 3/7/23 Milwaukee Orlando 7:00PM 7:00PM
+979 Tue. 3/7/23 Charlotte Knicks 7:30PM 7:30PM
+980 Tue. 3/7/23 Philadelphia Minnesota 6:30PM 7:30PM TNT
+981 Tue. 3/7/23 Brooklyn Houston 7:00PM 8:00PM
+982 Tue. 3/7/23 Warriors Thunder 7:00PM 8:00PM
+983 Tue. 3/7/23 Utah Dallas 7:30PM 8:30PM
+984 Tue. 3/7/23 Memphis Lakers 7:00PM 10:00PM TNT
+985 Wed. 3/8/23 Atlanta Washington 7:00PM 7:00PM
+986 Wed. 3/8/23 Portland Boston 7:30PM 7:30PM
+987 Wed. 3/8/23 Cleveland Miami 7:30PM 7:30PM
+988 Wed. 3/8/23 Dallas NOLA 6:30PM 7:30PM ESPN
+989 Wed. 3/8/23 Chicago Denver 7:00PM 9:00PM
+990 Wed. 3/8/23 Thunder Phoenix 7:00PM 9:00PM
+991 Wed. 3/8/23 Toronto Clippers 7:00PM 10:00PM ESPN
+992 Thu. 3/9/23 Charlotte Detroit 7:00PM 7:00PM
+993 Thu. 3/9/23 Houston Indiana 7:00PM 7:00PM
+994 Thu. 3/9/23 Utah Orlando 7:00PM 7:00PM
+995 Thu. 3/9/23 Brooklyn Milwaukee 6:30PM 7:30PM TNT
+996 Thu. 3/9/23 Warriors Memphis 9:00PM 10:00PM TNT
+997 Thu. 3/9/23 Knicks Sacramento 7:00PM 10:00PM
+998 Fri. 3/10/23 Portland Philadelphia 7:00PM 7:00PM
+999 Fri. 3/10/23 Atlanta Washington 7:00PM 7:00PM
+1000 Fri. 3/10/23 Cleveland Miami 8:00PM 8:00PM NBA TV
+1001 Fri. 3/10/23 Brooklyn Minnesota 7:00PM 8:00PM
+1002 Fri. 3/10/23 Denver Spurs 7:00PM 8:00PM
+1003 Fri. 3/10/23 Toronto Lakers 7:30PM 10:30PM NBA TV
+1004 Sat. 3/11/23 Knicks Clippers 1:00PM 4:00PM
+1005 Sat. 3/11/23 Utah Charlotte 7:00PM 7:00PM
+1006 Sat. 3/11/23 Indiana Detroit 7:00PM 7:00PM
+1007 Sat. 3/11/23 Miami Orlando 7:00PM 7:00PM
+1008 Sat. 3/11/23 Boston Atlanta 7:30PM 7:30PM
+1009 Sat. 3/11/23 Chicago Houston 7:00PM 8:00PM
+1010 Sat. 3/11/23 Dallas Memphis 7:00PM 8:00PM
+1011 Sat. 3/11/23 Thunder NOLA 7:30PM 8:30PM
+1012 Sat. 3/11/23 Milwaukee Warriors 5:30PM 8:30PM ABC
+1013 Sat. 3/11/23 Sacramento Phoenix 7:00PM 9:00PM
+1014 Sun. 3/12/23 Brooklyn Denver 1:30PM 3:30PM
+1015 Sun. 3/12/23 Cleveland Charlotte 5:00PM 5:00PM
+1016 Sun. 3/12/23 Washington Philadelphia 6:00PM 6:00PM
+1017 Sun. 3/12/23 Portland NOLA 6:00PM 7:00PM
+1018 Sun. 3/12/23 Thunder Spurs 6:00PM 7:00PM
+1019 Sun. 3/12/23 Knicks Lakers 6:00PM 9:00PM ESPN
+1020 Mon. 3/13/23 Indiana Detroit 7:00PM 7:00PM
+1021 Mon. 3/13/23 Minnesota Atlanta 7:30PM 7:30PM
+1022 Mon. 3/13/23 Utah Miami 7:30PM 7:30PM 
+1023 Mon. 3/13/23 Memphis Dallas 6:30PM 7:30PM ESPN
+1024 Mon. 3/13/23 Boston Houston 7:00PM 8:00PM
+1025 Mon. 3/13/23 Phoenix Warriors 7:00PM 10:00PM ESPN
+1026 Mon. 3/13/23 Milwaukee Sacramento 7:00PM 10:00PM
+1027 Tue. 3/14/23 Cleveland Charlotte 7:00PM 7:00PM
+1028 Tue. 3/14/23 Detroit Washington 7:00PM 7:00PM
+1029 Tue. 3/14/23 Denver Toronto 7:30PM 7:30PM NBA TV
+1030 Tue. 3/14/23 Lakers NOLA 7:00PM 8:00PM
+1031 Tue. 3/14/23 Brooklyn Thunder 7:00PM 8:00PM
+1032 Tue. 3/14/23 Orlando Spurs 7:00PM 8:00PM
+1033 Tue. 3/14/23 Milwaukee Phoenix 7:00PM 10:00PM NBA TV
+1034 Tue. 3/14/23 Knicks Portland 7:00PM 10:00PM
+1035 Wed. 3/15/23 Philadelphia Cleveland 7:30PM 7:30PM ESPN
+1036 Wed. 3/15/23 Memphis Miami 7:30PM 7:30PM
+1037 Wed. 3/15/23 Sacramento Chicago 7:00PM 8:00PM
+1038 Wed. 3/15/23 Lakers Houston 7:00PM 8:00PM
+1039 Wed. 3/15/23 Boston Minnesota 7:00PM 8:00PM
+1040 Wed. 3/15/23 Dallas Spurs 7:30PM 8:30PM
+1041 Wed. 3/15/23 Warriors Clippers 7:00PM 10:00PM ESPN
+1042 Thu. 3/16/23 Denver Detroit 7:00PM 7:00PM
+1043 Thu. 3/16/23 Sacramento Brooklyn 7:30PM 7:30PM
+1044 Thu. 3/16/23 Thunder Toronto 7:30PM 7:30PM
+1045 Thu. 3/16/23 Indiana Milwaukee 7:00PM 8:00PM
+1046 Thu. 3/16/23 Orlando Phoenix 7:00PM 10:00PM NBA TV
+1047 Fri. 3/17/23 Philadelphia Charlotte 7:00PM 7:00PM
+1048 Fri. 3/17/23 Warriors Atlanta 7:30PM 7:30PM NBA TV
+1049 Fri. 3/17/23 Washington Cleveland 7:30PM 7:30PM
+1050 Fri. 3/17/23 Minnesota Chicago 7:00PM 8:00PM
+1051 Fri. 3/17/23 NOLA Houston 7:00PM 8:00PM
+1052 Fri. 3/17/23 Memphis Spurs 7:00PM 8:00PM
+1053 Fri. 3/17/23 Boston Portland 7:00PM 10:00PM
+1054 Fri. 3/17/23 Dallas Lakers 7:30PM 10:30PM NBA TV
+1055 Sat. 3/18/23 Denver Knicks 1:00PM 1:00PM
+1056 Sat. 3/18/23 Orlando Clippers 12:00PM 3:00PM
+1057 Sat. 3/18/23 Philadelphia Indiana 7:00PM 7:00PM
+1058 Sat. 3/18/23 Minnesota Toronto 7:00PM 7:00PM
+1059 Sat. 3/18/23 Sacramento Washington 8:00PM 8:00PM
+1060 Sat. 3/18/23 Miami Chicago 7:00PM 8:00PM
+1061 Sat. 3/18/23 Warriors Memphis 7:00PM 8:00PM NBA TV
+1062 Sat. 3/18/23 Boston Utah 7:00PM 9:00PM
+1063 Sun. 3/19/23 Denver Brooklyn 3:30PM 3:30PM
+1064 Sun. 3/19/23 Phoenix Thunder 2:30PM 3:30PM
+1065 Sun. 3/19/23 Atlanta Spurs 3:00PM 4:00PM
+1066 Sun. 3/19/23 Miami Detroit 6:00PM 6:00PM
+1067 Sun. 3/19/23 NOLA Houston 6:00PM 7:00PM
+1068 Sun. 3/19/23 Toronto Milwaukee 7:00PM 8:00PM NBA TV
+1069 Sun. 3/19/23 Clippers Portland 6:00PM 9:00PM
+1070 Sun. 3/19/23 Orlando Lakers 6:30PM 9:30PM
+1071 Mon. 3/20/23 Indiana Charlotte 7:00PM 7:00PM
+1072 Mon. 3/20/23 Chicago Philadelphia 7:00PM 7:00PM
+1073 Mon. 3/20/23 Minnesota Knicks 7:30PM 7:30PM
+1074 Mon. 3/20/23 Warriors Houston 7:00PM 8:00PM
+1075 Mon. 3/20/23 Dallas Memphis 7:00PM 8:00PM NBA TV
+1076 Mon. 3/20/23 Sacramento Utah 7:00PM 9:00PM 
+1077 Tue. 3/21/23 Washington Orlando 7:00PM 7:00PM
+1078 Tue. 3/21/23 Detroit Atlanta 7:30PM 7:30PM
+1079 Tue. 3/21/23 Cleveland Brooklyn 7:30PM 7:30PM NBA TV
+1080 Tue. 3/21/23 Spurs NOLA 7:00PM 8:00PM
+1081 Tue. 3/21/23 Boston Sacramento 7:00PM 10:00PM NBA TV
+1082 Tue. 3/21/23 Thunder Clippers 7:30PM 10:30PM
+1083 Wed. 3/22/23 Denver Washington 7:00PM 7:00PM
+1084 Wed. 3/22/23 Knicks Miami 7:30PM 7:30PM
+1085 Wed. 3/22/23 Indiana Toronto 7:30PM 7:30PM
+1086 Wed. 3/22/23 Warriors Dallas 6:30PM 7:30PM ESPN
+1087 Wed. 3/22/23 Philadelphia Chicago 7:00PM 8:00PM
+1088 Wed. 3/22/23 Houston Memphis 7:00PM 8:00PM
+1089 Wed. 3/22/23 Spurs Milwaukee 7:00PM 8:00PM
+1090 Wed. 3/22/23 Atlanta Minnesota 7:00PM 8:00PM
+1091 Wed. 3/22/23 Portland Utah 7:00PM 9:00PM
+1092 Wed. 3/22/23 Phoenix Lakers 7:00PM 10:00PM ESPN
+1093 Thu. 3/23/23 Knicks Orlando 7:00PM 7:00PM NBA TV
+1094 Thu. 3/23/23 Cleveland Brooklyn 7:30PM 7:30PM
+1095 Thu. 3/23/23 Charlotte NOLA 7:00PM 8:00PM
+1096 Thu. 3/23/23 Thunder Clippers 7:30PM 10:30PM
+1097 Fri. 3/24/23 Indiana Boston 7:00PM 7:00PM NBA TV
+1098 Fri. 3/24/23 Spurs Washington 7:00PM 7:00PM
+1099 Fri. 3/24/23 Detroit Toronto 7:30PM 7:30PM
+1100 Fri. 3/24/23 Houston Memphis 7:00PM 8:00PM
+1101 Fri. 3/24/23 Charlotte Dallas 7:30PM 8:30PM
+1102 Fri. 3/24/23 Milwaukee Utah 7:00PM 9:00PM
+1103 Fri. 3/24/23 Philadelphia Warriors 7:00PM 10:00PM NBA TV
+1104 Fri. 3/24/23 Chicago Portland 7:00PM 10:00PM
+1105 Fri. 3/24/23 Phoenix Sacramento 7:00PM 10:00PM
+1106 Fri. 3/24/23 Thunder Lakers 7:30PM 10:30PM
+1107 Sat. 3/25/23 Indiana Atlanta 5:00PM 5:00PM
+1108 Sat. 3/25/23 Brooklyn Miami 8:00PM 8:00PM NBA TV
+1109 Sat. 3/25/23 Milwaukee Denver 7:00PM 9:00PM
+1110 Sat. 3/25/23 Philadelphia Phoenix 7:00PM 10:00PM
+1111 Sat. 3/25/23 Utah Sacramento 7:00PM 10:00PM
+1112 Sat. 3/25/23 NOLA Clippers 7:30PM 10:30PM NBA TV
+1113 Sun. 3/26/23 Dallas Charlotte 1:00PM 1:00PM
+1114 Sun. 3/26/23 Chicago Lakers 12:30PM 3:30PM
+1115 Sun. 3/26/23 Memphis Atlanta 6:00PM 6:00PM NBA TV
+1116 Sun. 3/26/23 Spurs Boston 6:00PM 6:00PM
+1117 Sun. 3/26/23 Houston Cleveland 6:00PM 6:00PM
+1118 Sun. 3/26/23 Brooklyn Orlando 6:00PM 6:00PM
+1119 Sun. 3/26/23 Washington Toronto 6:00PM 6:00PM
+1120 Sun. 3/26/23 Thunder Portland 4:00PM 7:00PM
+1121 Sun. 3/26/23 Minnesota Warriors 5:30PM 8:30PM NBA TV
+1122 Mon. 3/27/23 Milwaukee Detroit 7:00PM 7:00PM NBA TV
+1123 Mon. 3/27/23 Dallas Indiana 7:00PM 7:00PM
+1124 Mon. 3/27/23 Houston Knicks 7:30PM 7:30PM
+1125 Mon. 3/27/23 Phoenix Utah 7:00PM 9:00PM
+1126 Mon. 3/27/23 Philadelphia Denver 7:30PM 9:30PM NBA TV
+1127 Mon. 3/27/23 NOLA Portland 7:00PM 10:00PM
+1128 Mon. 3/27/23 Minnesota Sacramento 7:00PM 10:00PM
+1129 Mon. 3/27/23 Chicago Clippers 7:30PM 10:30PM
+1130 Tue. 3/28/23 Boston Washington 7:00PM 7:00PM 
+1131 Tue. 3/28/23 Cleveland Atlanta 7:30PM 7:30PM
+1132 Tue. 3/28/23 Miami Toronto 7:30PM 7:30PM TNT
+1133 Tue. 3/28/23 Orlando Memphis 7:00PM 8:00PM
+1134 Tue. 3/28/23 Charlotte Thunder 7:00PM 8:00PM
+1135 Tue. 3/28/23 NOLA Warriors 7:00PM 10:00PM TNT
+1136 Wed. 3/29/23 Milwaukee Indiana 7:00PM 7:00PM
+1137 Wed. 3/29/23 Houston Brooklyn 7:30PM 7:30PM
+1138 Wed. 3/29/23 Miami Knicks 7:30PM 7:30PM
+1139 Wed. 3/29/23 Dallas Philadelphia 7:30PM 7:30PM ESPN
+1140 Wed. 3/29/23 Lakers Chicago 7:00PM 8:00PM
+1141 Wed. 3/29/23 Clippers Memphis 7:00PM 8:00PM
+1142 Wed. 3/29/23 Detroit Thunder 7:00PM 8:00PM
+1143 Wed. 3/29/23 Utah Spurs 7:00PM 8:00PM
+1144 Wed. 3/29/23 Minnesota Phoenix 7:00PM 10:00PM ESPN
+1145 Wed. 3/29/23 Sacramento Portland 7:00PM 10:00PM
+1146 Thu. 3/30/23 Boston Milwaukee 6:30PM 7:30PM TNT
+1147 Thu. 3/30/23 NOLA Denver 8:00PM 10:00PM TNT
+1148 Fri. 3/31/23 Chicago Charlotte 7:00PM 7:00PM
+1149 Fri. 3/31/23 Thunder Indiana 7:00PM 7:00PM
+1150 Fri. 3/31/23 Toronto Philadelphia 7:00PM 7:00PM
+1151 Fri. 3/31/23 Orlando Washington 7:00PM 7:00PM
+1152 Fri. 3/31/23 Utah Boston 7:30PM 7:30PM
+1153 Fri. 3/31/23 Atlanta Brooklyn 7:30PM 7:30PM
+1154 Fri. 3/31/23 Knicks Cleveland 7:30PM 7:30PM
+1155 Fri. 3/31/23 Detroit Houston 7:00PM 8:00PM
+1156 Fri. 3/31/23 Clippers Memphis 7:00PM 8:00PM
+1157 Fri. 3/31/23 Lakers Minnesota 7:00PM 8:00PM NBA TV
+1158 Fri. 3/31/23 Spurs Warriors 7:00PM 10:00PM
+1159 Fri. 3/31/23 Sacramento Portland 7:00PM 10:00PM
+1160 Fri. 3/31/23 Denver Phoenix 7:30PM 10:30PM NBA TV
+1161 Sat. 4/1/23 Dallas Miami 7:30PM 7:30PM NBA TV
+1162 Sat. 4/1/23 Clippers NOLA 7:30PM 8:30PM
+1163 Sun. 4/2/23 Toronto Charlotte 1:00PM 1:00PM
+1164 Sun. 4/2/23 Utah Brooklyn 3:30PM 3:30PM
+1165 Sun. 4/2/23 Memphis Chicago 2:30PM 3:30PM
+1166 Sun. 4/2/23 Portland Minnesota 2:30PM 3:30PM
+1167 Sun. 4/2/23 Dallas Atlanta 6:00PM 6:00PM NBA TV
+1168 Sun. 4/2/23 Washington Knicks 6:00PM 6:00PM
+1169 Sun. 4/2/23 Detroit Orlando 6:00PM 6:00PM
+1170 Sun. 4/2/23 Spurs Sacramento 3:00PM 6:00PM
+1171 Sun. 4/2/23 Lakers Houston 6:00PM 7:00PM
+1172 Sun. 4/2/23 Phoenix Thunder 6:00PM 7:00PM
+1173 Sun. 4/2/23 Indiana Cleveland 8:00PM 8:00PM
+1174 Sun. 4/2/23 Philadelphia Milwaukee 7:00PM 8:00PM
+1175 Sun. 4/2/23 Warriors Denver 6:30PM 8:30PM NBA TV
+1176 Tue. 4/4/23 Toronto Charlotte 7:00PM 7:00PM
+1177 Tue. 4/4/23 Miami Detroit 7:00PM 7:00PM
+1178 Tue. 4/4/23 Cleveland Orlando 7:00PM 7:00PM
+1179 Tue. 4/4/23 Milwaukee Washington 7:00PM 7:00PM
+1180 Tue. 4/4/23 Minnesota Brooklyn 7:30PM 7:30PM
+1181 Tue. 4/4/23 Boston Philadelphia 8:00PM 8:00PM TNT
+1182 Tue. 4/4/23 Atlanta Chicago 7:00PM 8:00PM
+1183 Tue. 4/4/23 Denver Houston 7:00PM 8:00PM
+1184 Tue. 4/4/23 Portland Memphis 7:00PM 8:00PM 
+1185 Tue. 4/4/23 Sacramento NOLA 7:00PM 8:00PM
+1186 Tue. 4/4/23 Lakers Utah 7:00PM 9:00PM
+1187 Tue. 4/4/23 Thunder Warriors 7:00PM 10:00PM
+1188 Tue. 4/4/23 Spurs Phoenix 7:00PM 10:00PM
+1189 Wed. 4/5/23 Brooklyn Detroit 7:00PM 7:00PM
+1190 Wed. 4/5/23 Knicks Indiana 7:00PM 7:00PM
+1191 Wed. 4/5/23 Washington Atlanta 7:30PM 7:30PM
+1192 Wed. 4/5/23 Toronto Boston 7:30PM 7:30PM
+1193 Wed. 4/5/23 Chicago Milwaukee 6:30PM 7:30PM ESPN
+1194 Wed. 4/5/23 Memphis NOLA 7:00PM 8:00PM
+1195 Wed. 4/5/23 Sacramento Dallas 7:30PM 8:30PM
+1196 Wed. 4/5/23 Lakers Clippers 7:00PM 10:00PM ESPN
+1197 Thu. 4/6/23 Cleveland Orlando 7:00PM 7:00PM
+1198 Thu. 4/6/23 Miami Philadelphia 7:30PM 7:30PM TNT
+1199 Thu. 4/6/23 Portland Spurs 7:00PM 8:00PM D
+1200 Thu. 4/6/23 Thunder Utah 7:00PM 9:00PM
+1201 Thu. 4/6/23 Denver Phoenix 7:00PM 10:00PM TNT
+1202 Fri. 4/7/23 Houston Charlotte 7:00PM 7:00PM
+1203 Fri. 4/7/23 Detroit Indiana 7:00PM 7:00PM
+1204 Fri. 4/7/23 Miami Washington 7:00PM 7:00PM
+1205 Fri. 4/7/23 Philadelphia Atlanta 7:30PM 7:30PM
+1206 Fri. 4/7/23 Toronto Boston 7:30PM 7:30PM
+1207 Fri. 4/7/23 Orlando Brooklyn 7:30PM 7:30PM
+1208 Fri. 4/7/23 Memphis Milwaukee 7:00PM 8:00PM NBA TV
+1209 Fri. 4/7/23 Knicks NOLA 7:00PM 8:00PM
+1210 Fri. 4/7/23 Chicago Dallas 7:30PM 8:30PM
+1211 Fri. 4/7/23 Warriors Sacramento 7:00PM 10:00PM
+1212 Fri. 4/7/23 Phoenix Lakers 7:30PM 10:30PM NBA TV
+1213 Sat. 4/8/23 Denver Utah 1:30PM 3:30PM
+1214 Sat. 4/8/23 Minnesota Spurs 3:00PM 4:00PM D
+1215 Sat. 4/8/23 Portland Clippers 1:00PM 4:00PM
+1216 Sun. 4/9/23 Atlanta Boston 1:00PM 1:00PM
+1217 Sun. 4/9/23 Philadelphia Brooklyn 1:00PM 1:00PM
+1218 Sun. 4/9/23 Charlotte Cleveland 1:00PM 1:00PM
+1219 Sun. 4/9/23 Orlando Miami 1:00PM 1:00PM
+1220 Sun. 4/9/23 Indiana Knicks 1:00PM 1:00PM
+1221 Sun. 4/9/23 Milwaukee Toronto 1:00PM 1:00PM
+1222 Sun. 4/9/23 Houston Washington 1:00PM 1:00PM
+1223 Sun. 4/9/23 Detroit Chicago 12:00PM 1:00PM
+1224 Sun. 4/9/23 Spurs Dallas 2:30PM 3:30PM
+1225 Sun. 4/9/23 NOLA Minnesota 2:30PM 3:30PM
+1226 Sun. 4/9/23 Memphis Thunder 2:30PM 3:30PM
+1227 Sun. 4/9/23 Sacramento Denver 1:30PM 3:30PM
+1228 Sun. 4/9/23 Utah Lakers 12:30PM 3:30PM
+1229 Sun. 4/9/23 Clippers Phoenix 12:30PM 3:30PM
+1230 Sun. 4/9/23 Warriors Portland 12:30PM 3:30PM

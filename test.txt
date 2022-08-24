@@ -1,0 +1,18 @@
+1 Tue. 10/18/22 Philadelphia Boston 7:30PM 7:30PM TNT
+2 Tue. 10/18/22 Lakers Warriors 7:00PM 10:00PM TNT
+3 Wed. 10/19/22 Orlando Detroit 7:00PM 7:00PM
+4 Wed. 10/19/22 Washington Indiana 7:00PM 7:00PM
+9 Wed. 10/19/22 Knicks Memphis 6:30PM 7:30PM ESPN
+10 Wed. 10/19/22 Thunder Minnesota 7:00PM 8:00PM
+14 Wed. 10/19/22 Portland Sacramento 7:00PM 10:00PM
+15 Thu. 10/20/22 Milwaukee Philadelphia 7:30PM 7:30PM TNT
+16 Thu. 10/20/22 Clippers Lakers 7:00PM 10:00PM TNT
+17 Fri. 10/21/22 NOLA Charlotte 7:00PM 7:00PM
+18 Fri. 10/21/22 Spurs Indiana 7:00PM 7:00PM
+36 Sat. 10/22/22 Clippers Sacramento 7:00PM 10:00PM
+37 Sun. 10/23/22 Portland Lakers 12:30PM 3:30PM
+38 Sun. 10/23/22 Charlotte Atlanta 5:00PM 5:00PM
+39 Sun. 10/23/22 Washington Cleveland 7:00PM 7:00PM
+40 Sun. 10/23/22 Utah NOLA 6:00PM 7:00PM
+44 Mon. 10/24/22 Indiana Philadelphia 7:00PM 7:00PM
+45 Mon. 10/24/22 Toronto Miami 7:30PM 7:30PM
