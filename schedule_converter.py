@@ -1,7 +1,7 @@
 import csv
 
-filename = '2022_2022_NBA_Schedule.txt'
-# filename = 'test.txt'
+filename = 'data/2022_2023_NBA_Schedule.txt'
+# filename = 'data/test.txt'
 HEADERS = ["GAME", "DAY", "DATE", "VISITOR", "HOME", "LOCAL_TIME", "EASTERN TIME"]
 
 def read_file():
